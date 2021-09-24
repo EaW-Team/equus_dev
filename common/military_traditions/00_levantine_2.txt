@@ -4,16 +4,7 @@
 	
 
 	allow = {
-		trigger_if = {
-			limit = { country_culture_group = levantine }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = levantine
-		}
-		trigger_else = {
-			always = no
-		}
+		always = no
 	}
 
 	levantine_arabian_path_2 = { ###Levantine 1A
@@ -53,6 +44,50 @@
 			coastal_terrain_combat_bonus = 0.05
 		}
 		requires = { levantine_arabian_path_2 levantine_greco_path_4 }
+		allow = { 
+			trigger_if = {
+				limit = {
+					any_country_culture = {
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						OR = {
+							this.culture.culture_group = culture_group:hellenic
+							this.culture.culture_group = culture_group:dacia_group
+							this.culture.culture_group = culture_group:illyrian_group
+						}
+					}
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						OR = {
+							this.culture.culture_group = culture_group:hellenic
+							this.culture.culture_group = culture_group:dacia_group
+							this.culture.culture_group = culture_group:illyrian_group
+						}
+					}
+				}
+			}
+			trigger_else = {
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_greek"
+					any_country_culture = {
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						OR = {
+							this.culture.culture_group = culture_group:hellenic
+							this.culture.culture_group = culture_group:dacia_group
+							this.culture.culture_group = culture_group:illyrian_group
+						}
+					}
+				}
+			}
+		}
+		on_activate = {
+			greek_unlock_effect = yes
+		}
 	}
 
 	levantine_arabian_path_5 = { ###Levantine 2AB

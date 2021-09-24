@@ -1,4 +1,0 @@
-﻿accepted_migration_character = {
-	value = -10
-	months = 120
-}

@@ -6763,140 +6763,6 @@ expression = {
               }
           }
         }	
-        ancient_egypt_1 = {
-          index = 8
-          male = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/male_ancient_egypt_head_01_diffuse.dds"
-                  normal = "gfx/models/portraits/male_head/male_head_normal.dds"
-                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
-              }
-          }
-          female = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/female_ancient_egypt_head_01_diffuse.dds"
-                  normal = "gfx/models/portraits/female_head/female_head_normal.dds"
-                  specular = "gfx/models/portraits/female_head/female_head_properties.dds"
-              }
-          }
-          boy = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/male_ancient_egypt_head_01_diffuse.dds"
-                  normal = "gfx/models/portraits/male_head/male_head_child_normal.dds"
-                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
-              }
-          }
-          girl = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/female_ancient_egypt_head_01_diffuse.dds"
-                  normal = "gfx/models/portraits/female_head/female_head_normal.dds"
-                  specular = "gfx/models/portraits/female_head/female_head_properties.dds"
-              }
-              # decal = {   type = paint     atlas_pos = { 2 0 } }
-          }
-          infant = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/male_ancient_egypt_head_02_diffuse.dds"
-                  normal = "gfx/models/portraits/male_head/infant_head_normal.dds"
-                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
-              }
-          }
-        }	
-
-        ancient_egypt_2 = {
-          index = 9
-          male = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/male_ancient_egypt_head_02_diffuse.dds"
-                  normal = "gfx/models/portraits/male_head/male_head_normal.dds"
-                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
-              }
-          }
-          female = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/female_ancient_egypt_head_02_diffuse.dds"
-                  normal = "gfx/models/portraits/female_head/female_head_normal.dds"
-                  specular = "gfx/models/portraits/female_head/female_head_properties.dds"
-              }
-          }
-          boy = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/male_ancient_egypt_head_02_diffuse.dds"
-                  normal = "gfx/models/portraits/male_head/male_head_child_normal.dds"
-                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
-              }
-          }
-          girl = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/female_ancient_egypt_head_02_diffuse.dds"
-                  normal = "gfx/models/portraits/female_head/female_head_normal.dds"
-                  specular = "gfx/models/portraits/female_head/female_head_properties.dds"
-              }
-              # decal = {   type = paint     atlas_pos = { 2 0 } }
-          }
-          infant = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/male_ancient_egypt_head_02_diffuse.dds"
-                  normal = "gfx/models/portraits/male_head/infant_head_normal.dds"
-                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
-              }
-          }
-        }			
-		
-        ancient_egypt_3 = {
-          index = 10
-          male = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/male_ancient_egypt_head_03_diffuse.dds"
-                  normal = "gfx/models/portraits/male_head/male_head_normal.dds"
-                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
-              }
-          }
-          female = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/female_ancient_egypt_head_03_diffuse.dds"
-                  normal = "gfx/models/portraits/female_head/female_head_normal.dds"
-                  specular = "gfx/models/portraits/female_head/female_head_properties.dds"
-              }
-          }
-          boy = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/male_ancient_egypt_head_03_diffuse.dds"
-                  normal = "gfx/models/portraits/male_head/male_head_child_normal.dds"
-                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
-              }
-          }
-          girl = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/female_ancient_egypt_head_03_diffuse.dds"
-                  normal = "gfx/models/portraits/female_head/female_head_normal.dds"
-                  specular = "gfx/models/portraits/female_head/female_head_properties.dds"
-              }
-              # decal = {   type = paint     atlas_pos = { 2 0 } }
-          }
-          infant = {
-              texture_override = {
-                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
-                  diffuse = "gfx/models/portraits/ancient_egypt_head/male_ancient_egypt_head_02_diffuse.dds"
-                  normal = "gfx/models/portraits/male_head/infant_head_normal.dds"
-                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
-              }
-          }
-        }
 
 		#test_1 = {
 		#	index = 0
@@ -7296,21 +7162,21 @@ accessory_genes = {
 			male = {
 				10 = empty
 				10 = male_hair_egyptian_1
+				10 = male_hair_roman_4
+				10 = male_hair_roman_7
+				10 = male_hair_carthaginian_2
 				10 = male_hair_ethiopian_1
 				10 = male_hair_ethiopian_2
 				10 = male_hair_ethiopian_3
-                10 = male_hair_numidian_1	
-				10 = male_hair_ancient_egypt_1
-				10 = male_hair_ancient_egypt_1_color2
-				10 = male_hair_ancient_egypt_1_color3
-				10 = male_hair_ancient_egypt_1_color4				
 
            }
             female = {
                3 = female_hair_egyptian_1
                3 = female_hair_egyptian_2
                3 = female_hair_ethiopian_2
-               1 = female_hair_ethiopian_1			   
+               1 = female_hair_roman_4
+               1 = female_hair_roman_5
+               1 = female_hair_greek_1
             }
             boy = male
             girl = female
@@ -7358,78 +7224,7 @@ accessory_genes = {
             }
             boy = male
             girl = female
-        }
-
-        mesopotamian_hairstyles = {
-            index = 18
-			male = {
-				15 = empty
-				30 = male_hair_roman_4
-				30 = male_hair_roman_5
-                20 = male_hair_roman_7
-                30 = male_hair_mesopotamian_2				
-           }
-            female = {
-               1 = female_hair_persian_1
-               1 = female_hair_celtic_2
-               1 = female_hair_arabian_3
-            }
-            boy = {
-                20 = empty
-				30 = male_hair_roman_4
-				30 = male_hair_roman_5
-           }
-            girl = female
-        }
-
-        aegean_hairstyles = {
-            index = 19
-            male = {
-            # Pureon    15 = male_hair_aegean_1
-            # Pureon    20 = male_hair_aegean_1_V2
-            # Pureon    20 = male_hair_aegean_1_V3	
-            # Pureon    20 = male_hair_aegean_1_diadems		
-            # Pureon	20 = male_hair_aegean_2_diadems	
-                10 = male_hair_greek_1
-                10 = male_hair_greek_2
-                5 = male_hair_roman_1
-                5 = male_hair_roman_2
-                5 = male_hair_roman_4
-                5 = male_hair_roman_5
-                5 = male_hair_roman_6
-                5 = male_hair_roman_7
-            }
-            female = {
-            # Pureon    1 = female_hair_aegean_1
-            # Pureon    1 = female_hair_aegean_2
-            # Pureon    1 = female_hair_aegean_2_v3				
-			# Pureon	1 = female_hair_aegean_3
-			# Pureon	1 = female_hair_aegean_1_diadems	
-               3 = female_hair_roman_1
-               1 = female_hair_roman_4
-               1 = female_hair_greek_3
-               3 = female_hair_arabian_3
-               3 = female_hair_celtic_2
-            }
-            boy = male
-            girl = female
-        }  
-
-        minoan_soldier_hairstyles = {
-            index = 20
-            male = {
-            # Pureon   15 = male_hair_aegean_1
-               10 = male_hair_greek_1
-               4 = male_hair_scythian_1						
-            }
-            female = {
-				1 = female_hair_roman_4 	#IN PROGRESS
-				1 = female_hair_roman_5			
-            }
-            boy = male
-            girl = female
-        }
-		
+        }    		
 		
 	}
 
@@ -7702,22 +7497,6 @@ accessory_genes = {
                 1 = empty
             }
         } 
-
-		mesopotamian_beards = {
-			index = 10
-
-			male = {
-                2 = empty
-                3 = mesopotamian_beard_1 				
-                3 = male_beard_6 
-                3 = male_beard_8
-                3 = male_beard_9                     
-			}
-
-			female = {
-				1 = empty
-			}
-		} 
 
 	}
 
@@ -8036,11 +7815,16 @@ accessory_genes = {
         egyptian_clothes = {
             index = 8
             male = {
-                1 = male_clothes_ancient_egypt_1			
+				1 = male_clothes_greek_1
                 1 = male_clothes_egyptian_1
                 1 = male_clothes_egyptian_1_color2
                 1 = male_clothes_egyptian_1_color3
                 1 = male_clothes_egyptian_1_color4
+                1 = male_clothes_egyptian_2
+                1 = male_clothes_egyptian_2_color2
+                1 = male_clothes_egyptian_2_color3
+                1 = male_clothes_egyptian_2_color4
+				#1 = male_clothes_egyptian_3
                 1 = male_clothes_ethiopian_1
                 1 = male_clothes_ethiopian_2
             }
@@ -8053,20 +7837,24 @@ accessory_genes = {
                 3 = female_clothes_egyptian_2_color2
                 3 = female_clothes_egyptian_2_color3
                 3 = female_clothes_egyptian_2_color4
-                3 = female_clothes_ethiopian_1
-                3 = female_clothes_ethiopian_2
+                1 = female_clothes_greek_2
+                1 = female_clothes_greek_2_color2
+                1 = female_clothes_greek_2_color3
+                1 = female_clothes_greek_2_color4
             }
             boy = {
-                1 = boy_bust
-                1 = male_clothes_ethiopian_1
-                1 = male_clothes_ethiopian_2
+                1 = boy_clothes_1
+                1 = boy_clothes_1_color2
+                1 = boy_clothes_1_color3
+                1 = boy_clothes_1_color4
             }
             girl = {
-                1 = girl_clothes_2
-                1 = female_clothes_ethiopian_1
-                1 = female_clothes_ethiopian_2
+                1 = girl_clothes_1
+                1 = girl_clothes_1_color2
+                1 = girl_clothes_1_color3
+                1 = girl_clothes_1_color4
             }
-        } 
+        }  
 		
         mauryan_clothes = {
             index = 9
@@ -8307,88 +8095,7 @@ accessory_genes = {
 				1 = girl_clothes_2_color3
 				1 = girl_clothes_2_color4
             }
-        }
-
-        mesopotamian_clothes = {
-            index = 16
-            male = {
-                2 = male_clothes_mesopotamian_1
-                2 = male_clothes_mesopotamian_2
-                2 = male_clothes_mesopotamian_2_color2						
-                2 = male_clothes_mesopotamian_3
-                2 = male_clothes_mesopotamian_3_color2				
-                2 = male_clothes_mesopotamian_3_color3			
-                2 = male_clothes_mesopotamian_3_color4				
-            }
-            female = {
-            # Pureon    1 = female_clothes_mesopotamian_1
-            # Pureon    1 = female_clothes_mesopotamian_2
-            # Pureon    1 = female_clothes_mesopotamian_2_color2	
-            # Pureon    1 = female_clothes_mesopotamian_2_color3
-            # Pureon    1 = female_clothes_mesopotamian_2_color4
-                1 = female_clothes_iberian_1
-                1 = female_clothes_iberian_1_color2
-                1 = female_clothes_iberian_1_color3
-                1 = female_clothes_iberian_1_color4
-                1 = female_clothes_iberian_2
-                1 = female_clothes_iberian_2_color2
-                1 = female_clothes_iberian_2_color3
-                1 = female_clothes_iberian_2_color4
-                1 = female_clothes_iberian_3
-                1 = female_clothes_iberian_3_color2
-            }
-            boy = male
-            girl = female
-        }	
-		
-        aegean_clothes_clothes = {
-            index = 17
-            male = {
-                1 = male_clothes_aegean_1
-                1 = male_clothes_aegean_2
-                1 = male_clothes_aegean_2v2		
-                1 = male_clothes_aegean_4				
-                1 = male_clothes_aegean_3
-                1 = male_clothes_aegean_3_color2	
-                1 = male_clothes_aegean_3_color3		
-            # Pureon    1 = male_clothes_aegean_3v2
-            # Pureon    1 = male_clothes_aegean_3_color2v2	
-            # Pureon    1 = male_clothes_aegean_3_color3v2					
-                1 = male_clothes_aegean_5	
-                1 = male_clothes_aegean_6					
-            }
-            female = {
-            # Pureon    1 = female_clothes_aegean_1
-            # Pureon    1 = female_clothes_aegean_1_color2
-            # Pureon    1 = female_clothes_aegean_1_color3
-            # Pureon    1 = female_clothes_aegean_1_color4
-            # Pureon    1 = female_clothes_aegean_1_color5
-            # Pureon    1 = female_clothes_aegean_1_color6		
-            # Pureon    1 = female_clothes_aegean_1v2
-            # Pureon    1 = female_clothes_aegean_1_color2v2
-            # Pureon    1 = female_clothes_aegean_1_color3v2
-            # Pureon    1 = female_clothes_aegean_1_color4v2
-            # Pureon    1 = female_clothes_aegean_1_color5v2
-            # Pureon    1 = female_clothes_aegean_1_color6v2
-                1 = female_clothes_iberian_1
-                1 = female_clothes_iberian_1_color2
-                1 = female_clothes_iberian_1_color3
-                1 = female_clothes_iberian_1_color4
-                1 = female_clothes_iberian_2
-                1 = female_clothes_iberian_2_color2
-                1 = female_clothes_iberian_2_color3
-                1 = female_clothes_iberian_2_color4
-                1 = female_clothes_iberian_3
-                1 = female_clothes_iberian_3_color2
-            }
-            boy = male
-            girl = {
-                1 = girl_clothes_2
-				1 = girl_clothes_2_color2
-				1 = girl_clothes_2_color3
-				1 = girl_clothes_2_color4
-            }
-        }
+        } 
 		
         no_clothes = {
             index = 30
@@ -8511,22 +8218,7 @@ accessory_genes = {
 			male = {
 				1 = male_clothes_bactrian_3
 			}
-		}
-
-		aegean_armor_portrait_template = {
-			index = 55
-			male = {
-				1 = aegean_armor_portrait_1
-			}
-		}
-		minoan_armor_portrait_template = {
-			index = 56
-			male = {
-			# Pureon	1 = male_clothes_minoan_soldier_1
-				1 = aegean_armor_portrait_1
-			}
-		}		
-		
+		}			
     } 		
  
 
@@ -8777,48 +8469,6 @@ accessory_genes = {
 			boy = {		1 = "boy_bust"		}
 			girl = {	1 = "girl_bust"		}
 		}
-
-	}
-	
-	helmet_accessory = {
-		index = 103
-		
-	    no_helmet = {
-			index = 0
-			male = {
-				100 = empty
-			}
-			female = {
-				100 = empty
-			}
-			boy = male
-			girl = female
-		}
-		
-		aegean_helmet_template = {
-            index = 1
-			set_tags = "no_hair"
-			male = {
-				100 = boartusk_helmet_portrait
-            }
-            female = {
-               100 = boartusk_helmet_portrait
-            }
-            boy = male
-            girl = female
-        }
-		
-		minoan_helmet_template = {
-            index = 2
-			male = {
-				100 = minoan_helmet_01_p
-            }
-            female = {
-               100 = minoan_helmet_01_p
-            }
-            boy = male
-            girl = female
-        }		
 
 	}
 

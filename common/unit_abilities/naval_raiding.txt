@@ -8,7 +8,9 @@
 		unit_owner = {
 			OR = {
 				num_of_cities < 1
-				NOT= {
+				NOR = {
+					is_tradition_tree_allowed = greek_philosophy
+					is_tradition_tree_allowed = mauryan_philosophy
 					heritage = pirate_heritage
 				}
 			}
@@ -18,6 +20,14 @@
 	allow = {
 		unit_owner = {
 			trigger_if = {
+				limit = { is_tradition_tree_allowed = greek_philosophy }
+				has_military_bonus = greek_antigonid_path_4
+			}
+			trigger_else_if = {
+				limit = { is_tradition_tree_allowed = mauryan_philosophy }
+				has_military_bonus = mauryan_coastal_path_4
+			}
+			trigger_else_if = {
 				limit = {
 					heritage = pirate_heritage
 				}

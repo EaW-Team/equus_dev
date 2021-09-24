@@ -4,30 +4,7 @@
 	
 
 	allow = {
-		trigger_if = {
-			limit = { country_culture_group = aegean }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = aegean
-		}
-		trigger_else_if = {
-			limit = { country_culture_group = cypriot }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = cypriot
-		}
-		trigger_else_if = {
-			limit = { country_culture_group = phrygian }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = phrygian
-		}
-		trigger_else = {
-			always = no
-		}
+		always = no
 	}
 	celtic_gallic_path_1 = { ###Celtic 1A
 		modifier = { 
@@ -93,6 +70,44 @@
 					add_trait = tactician
 				}
 			}
+		}
+	}
+
+	celtic_latin_enable = { ###celtic 3BB
+		modifier = { heavy_infantry_offensive = 0.025 }
+		requires = { celtic_gallic_path_6 }
+		icon = latin_roman_path_7
+		allow = {
+			trigger_if = {
+				limit = {
+					any_country_culture = {
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						this.culture.culture_group = culture_group:latin
+					}
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						this.culture.culture_group = culture_group:latin
+					}
+				}
+			}
+			trigger_else = {
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_latin"
+					any_country_culture = {
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						this.culture.culture_group = culture_group:latin	
+					}
+				}
+			}
+		}
+		on_activate = {
+			latin_unlock_effect = yes
 		}
 	}
 

@@ -45,6 +45,12 @@
 		unit_owner = { 
 			pay_price = desecrate
 			save_scope_as = sacker
+			if = {
+				limit = {
+					invention = god_is_dead
+				}
+				add_stability = 10
+			}
 		}
 		unit_location = {
 			save_scope_as = shrine_location

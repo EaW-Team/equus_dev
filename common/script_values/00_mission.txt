@@ -2,12 +2,7 @@
 	value = 0
 	scope:food_province = {
 		every_state_province = {
-			limit = { 
-				OR = {
-					has_building = basic_settlement_infratructure_building
-					has_building = fisheries
-				}
-			}
+			limit = { has_building = basic_settlement_infratructure_building }
 			add = 1
 		}
 	}
@@ -17,10 +12,7 @@ potential_farms_in_province_tooltip_svalue = {
 	value = 0
 	scope:food_province = {
 		every_state_province = {
-			limit = { 
-				has_food_trade_good_trigger = yes
-				has_city_status = no 
-			}
+			limit = { has_food_trade_good_trigger = yes }
 			add = 1
 		}
 	}
@@ -29,12 +21,7 @@ potential_farms_in_province_tooltip_svalue = {
 farms_in_province_svalue = {
 	value = 0
 	every_state_province = {
-		limit = { 
-			OR = {
-				has_building = basic_settlement_infratructure_building
-				has_building = fisheries
-			}
-		}
+		limit = { has_building = basic_settlement_infratructure_building }
 		add = 1
 	}
 }
@@ -42,10 +29,7 @@ farms_in_province_svalue = {
 potential_farms_in_province_svalue = {
 	value = 0
 	every_state_province = {
-		limit = { 
-			has_city_status = no
-			has_food_trade_good_trigger = yes 
-		}
+		limit = { has_food_trade_good_trigger = yes }
 		add = 1
 	}
 }
@@ -102,7 +86,6 @@ port_forts_province_svalue = {
 			limit = {
 				has_building = fortress_building
 				is_port = yes
-				has_city_status = yes
 			}
 			add = 1
 		}
@@ -141,7 +124,7 @@ port_markets_in_province_svalue = {
 	scope:port_province = {
 		every_state_province = {
 			limit = {
-				num_of_commerce_building >= 1
+				num_of_commerce_building >= 2
 				is_port = yes
 			}
 			add = 1
@@ -346,7 +329,6 @@ generic_mission_expansion_development_importing_svalue = {
 						is_importing_trade_good = salt
 						is_importing_trade_good = fish
 						is_importing_trade_good = cattle
-						is_importing_trade_good = fruits
 					}
 				}
 			}
@@ -362,7 +344,6 @@ generic_mission_expansion_development_importing_svalue = {
 						is_importing_trade_good = salt
 						is_importing_trade_good = fish
 						is_importing_trade_good = cattle
-						is_importing_trade_good = fruits
 					}
 				}
 			}

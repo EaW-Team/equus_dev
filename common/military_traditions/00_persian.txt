@@ -3,30 +3,7 @@
 	image = persian_achaemenid_path_2
 	
 	allow = {
-		trigger_if = {
-			limit = { country_culture_group = gutian }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = gutian
-		}
-		trigger_else_if = {
-			limit = { country_culture_group = elamite }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = elamite
-		}
-		trigger_else_if = {
-			limit = { country_culture_group = hurrian }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = hurrian
-		}
-		trigger_else = {
-			always = no
-		}
+		always = no
 	}
 
 	persian_bactrian_path_4 = { ###Persia 1A
@@ -73,12 +50,74 @@
 		requires = {persian_bactrian_path_4}
 	}
 
+	persian_bactrian_path_5 = { ###Persia 2AB
+		modifier = { 
+			warelephant_defensive = 0.1
+		}
+		icon = persian_bactrian_path_5
+		requires = {persian_bactrian_path_4}
+	}
+
 	persian_bactrian_path_1 = { ###Persia 3AA
 		modifier = { 
 			light_cavalry_offensive = 0.1
 		}
 		icon = persian_bactrian_path_1
 		requires = { persian_scythian_path_7 }
+	}
+
+	persian_mauryan_enable = { ###Persia 3AB
+		modifier = {}
+		icon = mauryan_noble_path_1
+		requires = { persian_bactrian_path_5 }
+		modifier = { jungle_combat_bonus = 0.05 }
+		allow = {
+			trigger_if = {
+				limit = {
+					any_country_culture = {
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						OR = {
+							this.culture.culture_group = culture_group:aryan
+							this.culture.culture_group = culture_group:pracyan
+							this.culture.culture_group = culture_group:indian
+							this.culture.culture_group = culture_group:tibetan
+						}
+					}
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						OR = {
+							this.culture.culture_group = culture_group:aryan
+							this.culture.culture_group = culture_group:pracyan
+							this.culture.culture_group = culture_group:indian
+							this.culture.culture_group = culture_group:tibetan
+						}
+					}
+				}
+			}
+			trigger_else = {
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_indian"
+					any_country_culture = {
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						OR = {
+							this.culture.culture_group = culture_group:aryan
+							this.culture.culture_group = culture_group:pracyan
+							this.culture.culture_group = culture_group:indian
+							this.culture.culture_group = culture_group:tibetan
+						}
+					}
+				}
+			}
+		}
+		on_activate = {
+			persian_mauryan_unlock_effect = yes
+		}
 	}
 
 	persian_scythian_path_2 = { ###Persia 4A

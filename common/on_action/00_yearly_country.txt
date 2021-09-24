@@ -25,11 +25,7 @@
 		delay = { days = { 1 364 } }
 		great_work_five_yearly_pulse
 		delay = { days = { 1 364 } }
-		ba_bronze_pulse
-		delay = { days = { 1 364 } }
 		no_great_work_pulse
-		delay = { days = { 1 364 } }
-		ba_tech_pulse
 		delay = { days = { 1 364 } }		
 		great_work_ai_construction_yearly_pulse
 		delay = { days = { 150 250 } }

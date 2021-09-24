@@ -1166,69 +1166,12 @@ on_becoming_adult = {
 }
 
 on_winning_war = {
-	effect = {
-		if = {
-			limit = {
-				tag = GTM
-				has_variable = ba_starting_war
-				c:URK = {
-					has_variable = ba_starting_war
-				}
-				war_with = c:URK
-			}
-			trigger_event = {
-				id = ba_gutium.2
-			}
-			remove_variable = ba_starting_war
-			c:URK = {
-				remove_variable = ba_starting_war
-			}
-		}
-	}
 }
 
 on_losing_war = {
-	effect = {
-		if = {
-			limit = {
-				tag = GTM
-				has_variable = ba_starting_war
-				c:URK = {
-					has_variable = ba_starting_war
-				}
-				war_with = c:URK
-			}
-			trigger_event = {
-				id = ba_gutium.1
-			}
-			remove_variable = ba_starting_war
-			c:URK = {
-				remove_variable = ba_starting_war
-			}
-		}
-	}
 }
 
 on_ending_war = {
-	effect = {
-		if = {
-			limit = {
-				tag = GTM
-				has_variable = ba_starting_war
-				c:URK = {
-					has_variable = ba_starting_war
-				}
-				war_with = c:URK
-			}
-			trigger_event = {
-				id = ba_gutium.1
-			}
-			remove_variable = ba_starting_war
-			c:URK = {
-				remove_variable = ba_starting_war
-			}
-		}
-	}
 }
 
 dictator_power_return = {
@@ -1666,9 +1609,6 @@ on_game_initialized = {
 		}
 	} 
 	on_actions = {
-		ba_bronze_pulse
-		tech_hack_pulse
-		ba_startup_pulse
 	}
 	random_events = {
 	}

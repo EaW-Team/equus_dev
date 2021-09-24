@@ -1,9 +1,0 @@
-﻿sided_with_enemy_opinion = {
-	value = -200
-	yearly_decay = 5
-}
-
-loyalist_opinion = {
-	value = 200
-	yearly_decay = 5
-}

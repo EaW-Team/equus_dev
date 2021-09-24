@@ -4,16 +4,7 @@
 	
 
 	allow = {
-		trigger_if = {
-			limit = { country_culture_group = egyptian }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = egyptian
-		}
-		trigger_else = {
-			always = no
-		}
+		always = no
 	}
 
 	levantine_arabian_path_end_bonus = { ###Levantine 1A
@@ -31,6 +22,54 @@
 		icon = levantine_arabian_path_4
 		requires = {levantine_arabian_path_end_bonus}
 	}
+
+	levantine_north_africa_enable = { ###Levantine 3AA
+		modifier = { plains_combat_bonus = 0.05 }
+		icon = north_african_tribal_path_3
+		requires = {levantine_arabian_path_4}
+		allow = {
+			trigger_if = {
+				limit = {
+					any_country_culture = {
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						OR = {
+							this.culture.culture_group = culture_group:numidian
+							is_culture = carthaginian
+						}
+					}
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						OR = {
+							this.culture.culture_group = culture_group:numidian
+							is_culture = carthaginian
+						}
+					}
+				}
+			}
+			trigger_else = {
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_north_african"
+					any_country_culture = {
+						is_integrated = yes
+						country_culture_pop_count >= percent_size_culture_group_comparison
+						OR = {
+							this.culture.culture_group = culture_group:numidian
+							is_culture = carthaginian
+						}
+					}
+				}
+			}
+		}
+		on_activate = {
+			north_africa_unlock_effect = yes
+		}
+	}
+
 	
 	levantine_philosophy_start_bonus = { ###
 		modifier = { camels_morale = 0.1 }

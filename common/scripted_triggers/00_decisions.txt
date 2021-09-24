@@ -1,46 +1,13 @@
 ﻿is_tier_1_formable_trigger = {
-	OR = {
-		tag = BOI #Boiotia
-		tag = 1EL	#Peloponnese formables, all seven of them
-		tag = 1AR
-		tag = 1AG
-		tag = 1AC
-		tag = 1KO
-		tag = 1ME
-		tag = 1LA
-		tag = 1MG	#megaris
-		tag = 1AK	#attike
-		tag = 1EU	#euboia/makris
-		tag = 1RH	#rhodos
-	}
+	always = no
 }
 
 is_tier_2_formable_trigger = {
-	OR = {
-		tag = 1LK
-		tag = 1LD
-		tag = 1SH
-		tag = 1TS
-		tag = 1WS
-		tag = 1KK
-	}
+	always = no
 }
 
 is_endgame_tag_trigger = {
-	OR = {
-		tag = 1EG
-		tag = 1KR
-		tag = 1CY
-		tag = 1MI
-		tag = 1PO
-		tag = 1PY
-		tag = 1AT
-		tag = 1CN
-		tag = 1AS
-		tag = TH1
-		tag = 1AK
-		tag = BBL
-	}
+	always = no
 }
 
 can_form_nation_trigger = {
@@ -56,7 +23,6 @@ has_food_trade_good_trigger = {
 			trade_goods = fish
 			trade_goods = cattle
 			trade_goods = vegetables
-			trade_goods = fruits
 		}
 	}
 }
@@ -67,7 +33,6 @@ has_non_food_trade_good_trigger = {
 		trade_goods = fish
 		trade_goods = cattle
 		trade_goods = vegetables
-		trade_goods = fruits
 	}
 }
 
@@ -77,6 +42,8 @@ has_urban_trade_good_trigger = {
 		trade_goods = cloth
 		trade_goods = earthware
 		trade_goods = dye
+		trade_goods = glass
+		trade_goods = silk
 	}
 }
 
@@ -86,6 +53,8 @@ has_non_urban_trade_good_trigger = {
 		trade_goods = cloth
 		trade_goods = earthware
 		trade_goods = dye
+		trade_goods = glass
+		trade_goods = silk
 	}
 }
 
@@ -97,15 +66,7 @@ has_minable_trade_good_trigger = {
 			trade_goods = stone
 			trade_goods = precious_metals
 			trade_goods = base_metals
-			trade_goods = salt
-			trade_goods = copper
-			trade_goods = tin
-			trade_goods = natron
-			trade_goods = bitumen
-			AND = {
-				trade_goods = gems
-				is_coastal = no
-			}
+			trade_goods = iron
 		}
 	}
 }
@@ -116,15 +77,7 @@ has_unminable_trade_good_trigger = {
 		trade_goods = stone
 		trade_goods = precious_metals
 		trade_goods = base_metals
-		trade_goods = salt
-		trade_goods = copper
-		trade_goods = tin
-		trade_goods = natron
-		trade_goods = bitumen
-		AND = {
-			trade_goods = gems
-			is_coastal = no
-		}
+		trade_goods = iron
 	}
 }
 
