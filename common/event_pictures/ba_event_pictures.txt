@@ -1,0 +1,18 @@
+﻿mesopotamian_empire = {
+	theme = Civic
+	picture = {
+		texture = "gfx/interface/event_window/contemplating_mesopotamian_watching_sunset.dds"
+	}
+}
+mesopotamian_court = {
+	theme = Civic
+	picture = {
+		texture = "gfx/interface/event_window/mesopotamian_king_talking_to_servant.dds"
+	}
+}
+proto_greeks = {
+	theme = Civic
+	picture = {
+		texture = "gfx/interface/event_window/beware_proto_greeks.dds"
+	}
+}

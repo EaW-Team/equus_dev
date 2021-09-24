@@ -1,0 +1,45 @@
+﻿pyramid_construction = {
+	
+}
+mortuary_temple_construction = {
+	
+}
+ba_large_pyramid_1 = {
+	
+}
+ba_small_pyramid_1_1 = {
+	
+}
+ba_small_pyramid_1_2 = {
+	
+}
+ba_small_mortuary_temple_1_1 = {
+	
+}
+ba_small_mortuary_temple_1_2 = {
+	
+}
+ba_large_mortuary_temple_1 = {
+	 
+}
+ba_obelisk_1_1 = {
+	
+}
+ba_obelisk_1_2 = {
+	
+}
+complex_construction_progress_1 = {}
+complex_construction_progress_2 = {}
+complex_construction_progress_3 = {}
+complex_construction_progress_1_1 = {}
+complex_construction_progress_1_2 = {}
+complex_construction_progress_1_3 = {}
+complex_construction_progress_1_4 = {}
+complex_construction_progress_2_1 = {}
+complex_construction_progress_2_2 = {}
+complex_construction_progress_2_3 = {}
+complex_construction_progress_2_4 = {}
+complex_construction_progress_3_1 = {}
+complex_construction_progress_3_2 = {}
+complex_construction_progress_3_3 = {}
+complex_construction_progress_3_4 = {}

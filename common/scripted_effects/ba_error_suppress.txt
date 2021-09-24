@@ -1,0 +1,214 @@
+﻿suppress_error_effect = {
+	set_variable = {
+		name = tutorial_enabled
+		value = 1
+	} 
+	#add_treasury = var:tutorial_enabled
+	if = { limit = { has_variable = tutorial_enabled }
+		set_variable = {
+			name = tutorial_enabled
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = invention_purchased }
+		set_variable = {
+			name = invention_purchased
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = military_tech_hack }
+		set_variable = {
+			name = military_tech_hack
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = religious_tech_hack }
+		set_variable = {
+			name = religious_tech_hack
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = random_omen }
+		set_variable = {
+			name = random_omen
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = death_description_random }
+		set_variable = {
+			name = death_description_random
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = event_selector }
+		set_variable = {
+			name = event_selector
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = satrapy_overlord_gift_elephants }
+		set_variable = {
+			name = satrapy_overlord_gift_elephants
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = satrapy_overlord_gift_camels }
+		set_variable = {
+			name = satrapy_overlord_gift_camels
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = satrapy_overlord_gift_horses }
+		set_variable = {
+			name = satrapy_overlord_gift_horses
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = rebel_character_flag }
+		set_variable = {
+			name = rebel_character_flag
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = crisis_ongoing }
+		set_variable = {
+			name = crisis_ongoing
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = military_party_displeasure }
+		set_variable = {
+			name = military_party_displeasure
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = military_party_pleasure }
+		set_variable = {
+			name = military_party_pleasure
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = civic_party_displeasure }
+		set_variable = {
+			name = civic_party_displeasure
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = civic_party_pleasure }
+		set_variable = {
+			name = civic_party_pleasure
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = mercantile_party_displeasure }
+		set_variable = {
+			name = mercantile_party_displeasure
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = mercantile_party_pleasure }
+		set_variable = {
+			name = mercantile_party_pleasure
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = religious_party_displeasure }
+		set_variable = {
+			name = religious_party_displeasure
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = religious_party_pleasure }
+		set_variable = {
+			name = religious_party_pleasure
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = populist_party_displeasure }
+		set_variable = {
+			name = populist_party_displeasure
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = populist_party_pleasure }
+		set_variable = {
+			name = populist_party_pleasure
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = cannot_imprison_family_favor }
+		set_variable = {
+			name = cannot_imprison_family_favor
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = can_tribal_reform }
+		set_variable = {
+			name = can_tribal_reform
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = random_target }
+		set_variable = {
+			name = random_target
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = iter_army }
+		set_variable = {
+			name = iter_army
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = iter_army_2 }
+		set_variable = {
+			name = iter_army_2
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = commander_loyalty_5_toggle }
+		set_variable = {
+			name = commander_loyalty_5_toggle
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = dictator_holding_power }
+		set_variable = {
+			name = dictator_holding_power
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = ostracized_from }
+		set_variable = {
+			name = ostracized_from
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = dhe_slave_family_cooldown }
+		set_variable = {
+			name = dhe_slave_family_cooldown
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = ba_is_invader }
+		set_variable = {
+			name = ba_is_invader
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = migration_accepted }
+		set_variable = {
+			name = migration_accepted
+			value = 1
+		}
+	}
+	if = { limit = { has_variable = target_area }
+		set_variable = {
+			name = target_area
+			value = 1
+		}
+	}
+	save_scope_as = random_target
+	save_scope_as = iter_army
+	save_scope_as = iter_army_2
+}

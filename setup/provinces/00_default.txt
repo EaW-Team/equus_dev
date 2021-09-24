@@ -25,3 +25,138 @@
 	terrain="ocean"
 	trade_goods=""
 }
+10={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+11={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+12={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+13={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+14={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+15={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+16={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+17={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+18={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}
+19={ #Vast Desert
+	terrain=""
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+20={ #Vast Desert
+	terrain=""
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+21={ #Vast Desert
+	terrain=""
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+22={ #Vast Desert
+	terrain=""
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+23={ #Vast Desert
+	terrain=""
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+24={ #Vast Desert
+	terrain=""
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}

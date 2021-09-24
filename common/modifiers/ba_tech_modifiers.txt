@@ -1,0 +1,140 @@
+﻿palatial_1 = { #Pre-palatial
+#Should not have an effect, is never used
+}
+palatial_2 = { #Early Palaces, Unlocks palaces in capital
+	diplomatic_range_modifier = 1
+}
+palatial_3 = { #Palatial, Unlocks palaces in state capitals too
+	diplomatic_range_modifier = 2
+}
+palatial_4 = {#Imperial Palaces
+	diplomatic_range_modifier = 3
+}
+palatial_stacking = {
+	diplomatic_reputation = 1
+}
+writing_1 = { #No Script
+#Should not have an effect, is never used
+}
+writing_2 = { #Bureaucratic Script
+	global_tax_modifier = 0.1
+}
+writing_3 = { #Full Script, Unlocks Scribe schools
+	global_tax_modifier = 0.1
+	research_points_modifier = 0.1
+}
+writing_4 = { #Alphabet
+	global_tax_modifier = 0.1
+	research_points_modifier = 0.1
+	global_commerce_modifier = 0.1
+}
+writing_stacking = {
+	country_civilization_value = 5
+}
+urbanization_1 = { #Early Cities
+#Should not have an effect, is never used
+}
+urbanization_2 = { #City Administration
+	global_citizen_city_desired_pop_ratio = 0.1
+}
+urbanization_3 = { #Sewage Unlocks Sewage building
+	global_citizen_city_desired_pop_ratio = 0.1
+}
+urbanization_4 = { #Imperial Center Enables founding of Metropolis
+	monthly_political_influence_modifier = 0.2
+	global_citizen_city_desired_pop_ratio = 0.1
+}
+urbanization_stacking = {
+	global_building_slot = 1
+}
+military_structure_1 = { #Tribal Levies
+	#Should not have an effect, is never used
+}
+military_structure_2 = { #Fortified Garrisons
+	global_defensive = 0.2
+	#Enables the garrison building
+}
+military_structure_3 = { #Conscription
+	global_defensive = 0.2
+	global_manpower_modifier = 0.2
+}
+military_structure_4 = { #Standing Army
+	global_defensive = 0.2
+	global_manpower_modifier = 0.25
+	discipline = 0.1
+	army_maintenance_cost = 0.2
+}
+military_structure_stacking = {
+	land_morale_modifier = 0.05
+	army_maintenance_cost = 0.05
+}
+trade_1 = { #Local Exchanges
+#Should not have an effect, is never used
+}
+trade_2 = { #Trade Missions, (Diplomatic missions to foreign capitals?)
+	diplomatic_range_modifier = 1
+	#Maybe unlock the Foreign Trading colony? Also maybe make it target other cities and more represent a trading district like the Assyrian one in Kanesh
+}
+trade_3 = { #Tolling stations
+	diplomatic_range_modifier = 1
+	#Enables Tolling Station building
+}
+trade_4 = { #Trade Delegations
+	diplomatic_range_modifier = 1
+	global_state_trade_routes = 1
+	price_state_investment_oratory_cost_modifier = -0.2
+	#Maybe unlock some trade delegation action
+	# Just global trade routes?
+}
+trade_stacking = {
+	global_capital_trade_routes = 2
+}
+law_1 = { #Tribal Law
+#Should not have an effect, is never used
+}
+law_2 = { #King's Justice
+	character_loyalty = 5
+}
+law_3 = { #Law Code
+	global_monthly_state_loyalty = 0.05
+	character_loyalty = 5
+}
+law_4 = { #Imperial Authority
+	global_monthly_state_loyalty = 0.1
+	character_loyalty = 5
+}
+law_stacking = {
+	global_citizen_happyness = 0.05
+}
+bureaucracy_1 = { # City State 2 idea slots
+#Should not have an effect, is never used
+}
+bureaucracy_2 = { # Governors 3 new governments theocratic, Mercantile and Martial Kingdom 3 idea slots
+}
+bureaucracy_3 = { # Royal Splendour 4 idea slots
+}
+bureaucracy_4 = { # Empire 5? idea slots
+}
+bureaucracy_stacking = {
+	country_civilization_value = 5
+}
+irrigation_1 = { #Free farming
+#Should not have an effect, is never used
+}
+irrigation_2 = { #Centralized Irrigation
+	basic_settlement_infratructure_building_cost = -0.25
+}
+irrigation_3 = { #Artificial Resorvoirs
+	basic_settlement_infratructure_building_cost = -0.25
+	global_monthly_food_modifier = 0.1
+}
+irrigation_4 = { #Planned Economy
+	basic_settlement_infratructure_building_cost = -0.25
+	global_monthly_food_modifier = 0.1
+	monthly_political_influence_modifier = 0.25
+	global_tax_modifier = -0.2
+}
+irrigation_stacking = {
+	global_population_capacity_modifier = 0.1
+	global_manpower_modifier = -0.05
+}

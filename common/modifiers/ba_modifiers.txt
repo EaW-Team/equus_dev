@@ -1,0 +1,251 @@
+﻿seven_gated_walls = {
+	fort_level = 2
+	local_defensive = 0.25
+}
+great_port_pagasai = {
+	local_migration_speed = 0.1
+	local_migration_attraction = 0.20
+	local_citizen_happyness = 0.15
+	local_ship_recruit_speed = 0.25
+	local_state_trade_routes = 3
+}
+gutian_horde = {
+	land_morale_modifier = 0.15
+	discipline = 0.10
+	global_manpower_modifier = 1
+	levy_size_multiplier = 0.125
+}
+neighbor_city = { #Change civilization setup effect too
+	local_country_civilization_value = 4
+}
+silver_mountain = {
+	base_resources = 1
+	local_goods_from_slaves = -4
+	local_slaves_output = 0.4
+	local_slaves_desired_pop_ratio = 0.1
+	local_population_capacity_modifier = 0.5
+}
+has_bronze = {
+	discipline = 0.05
+}
+foreign_trading_colony = {
+	global_capital_trade_routes = 2
+}
+ba_below_full_food_capacity = {
+	local_monthly_food_modifier = -1
+}
+ba_diplomatic_outreach = {
+	diplomatic_reputation = 3
+} 
+decree_relocation = {
+	local_population_capacity_modifier = -1
+	local_population_capacity = -2
+	local_citizen_desired_pop_ratio = -0.3
+	local_pop_demotion_speed_modifier = 3
+	local_migration_speed_modifier = 3
+	local_citizen_happyness = -0.7
+	local_unrest = 5
+}
+petra_oasis = {
+	local_tribesmen_desired_pop_ratio = -0.05
+	local_freemen_desired_pop_ratio = 0.15
+	local_population_capacity_modifier  = 0.8
+	local_monthly_food_modifier = 0.5
+	movement_cost = -0.4
+	supply_limit_modifier = 0.3
+	local_state_trade_routes = 2
+}
+gamestart_drought = {
+	local_monthly_food_modifier = -0.25
+	local_tribesmen_desired_pop_ratio = 0.05
+	local_monthly_civilization = -0.04
+}
+smaller_gamestart_drought = {
+	local_monthly_food_modifier = -0.10
+	local_tribesmen_desired_pop_ratio = 0.05
+	local_monthly_civilization = -0.02
+}
+egyptian_drought = {
+	local_monthly_food_modifier = -0.75
+	local_tribesmen_desired_pop_ratio = 0.05
+	local_monthly_civilization = -0.08
+}
+smaller_egyptian_drought = {
+	local_monthly_food_modifier = -0.35
+	local_tribesmen_desired_pop_ratio = 0.05
+	local_monthly_civilization = -0.06
+}
+small_drought = {
+	local_monthly_food_modifier = -0.25
+	local_tribesmen_desired_pop_ratio = 0.05
+	local_monthly_civilization = -0.04
+}
+medium_drought = {
+	local_monthly_food_modifier = -0.5
+	local_tribesmen_desired_pop_ratio = 0.05
+	local_monthly_civilization = -0.06
+}
+large_drought = {
+	local_monthly_food_modifier = -0.9
+	local_tribesmen_desired_pop_ratio = 0.1
+	local_monthly_civilization = -0.1
+}
+ba_great_quarry = {
+	base_resources = 1
+}
+tin_import_hub = {
+	base_resources = 1
+	local_goods_from_slaves = 200
+}
+mining_expedition_hub = {
+	local_goods_from_slaves = -3
+	local_slaves_output = 0.3
+	local_population_capacity_modifier = 0.75
+	local_slaves_desired_pop_ratio = 0.1
+}
+nubian_gold = {
+	base_resources = 1
+	local_goods_from_slaves = -4
+	local_slaves_output = 0.4
+	local_slaves_desired_pop_ratio = 0.1
+	local_population_capacity_modifier = 0.75
+}
+sinai_turquoise = {
+	base_resources = 1
+	local_goods_from_slaves = -3
+	local_slaves_output = 0.3
+	local_population_capacity_modifier = 0.75
+	local_slaves_desired_pop_ratio = 0.1
+}
+timna_copper = {
+	base_resources = 1
+	local_goods_from_slaves = -3
+	local_slaves_output = 0.3
+	local_population_capacity_modifier = 0.75
+	local_slaves_desired_pop_ratio = 0.1
+}
+tora_quarries = {
+	base_resources = 1
+	local_goods_from_slaves = -3
+	local_population_capacity_modifier = 0.4
+	local_slaves_desired_pop_ratio = 0.05
+}
+swenett_granite = {
+	base_resources = 1
+	local_goods_from_slaves = -3
+	local_population_capacity_modifier = 0.5
+	local_slaves_desired_pop_ratio = 0.05
+}
+wadi_hammamat = {
+	local_goods_from_slaves = -3
+	local_population_capacity_modifier = 0.5
+	local_slaves_desired_pop_ratio = 0.05
+}
+quseir_port = {
+	local_state_trade_routes = 2
+	local_population_capacity_modifier = 0.75
+	local_population_capacity = 3
+}
+sub_saharan_imports = {
+	base_resources = 2
+	local_goods_from_slaves = 200
+}
+is_plains = {
+	local_tribesmen_desired_pop_ratio = 0.05
+}
+is_deep_forest = {
+	local_tribesmen_desired_pop_ratio = 0.15
+	local_freemen_desired_pop_ratio = -0.15
+}
+is_mountain_valley = {
+	local_tribesmen_desired_pop_ratio = 0.1
+	local_freemen_desired_pop_ratio = -0.05
+}
+is_flood_plain = {
+	local_freemen_desired_pop_ratio = 0.10
+	local_slaves_desired_pop_ratio = 0.05
+}
+is_island_coast = {
+	
+}
+is_oasis = {
+	local_tribesmen_desired_pop_ratio = 0.05
+}
+is_desert_hills = {
+	local_tribesmen_desired_pop_ratio = 0.20
+	local_freemen_desired_pop_ratio = -0.15
+}
+is_desert_valley = {
+	local_tribesmen_desired_pop_ratio = 0.10
+	local_freemen_desired_pop_ratio = -0.15
+}
+is_mountain = {
+	local_tribesmen_desired_pop_ratio = 0.25
+	local_freemen_desired_pop_ratio = -0.15
+}
+is_hills = {
+	local_tribesmen_desired_pop_ratio = 0.05
+	local_freemen_desired_pop_ratio = -0.05
+}
+is_desert = {
+	local_tribesmen_desired_pop_ratio = 0.3
+	local_freemen_desired_pop_ratio = -0.2
+}
+is_marsh = {
+	local_tribesmen_desired_pop_ratio = 0.25
+	local_freemen_desired_pop_ratio = -0.15
+}
+is_jungle = {
+	local_tribesmen_desired_pop_ratio = 0.25
+	local_freemen_desired_pop_ratio = -0.15
+}
+is_farmland = {
+	local_freemen_desired_pop_ratio = 0.1
+}
+is_forest = {
+	local_tribesmen_desired_pop_ratio = 0.15
+	local_freemen_desired_pop_ratio = -0.10
+}
+cyprus_copper = {
+	base_resources = 1
+	local_goods_from_slaves = -3
+	local_slaves_output = 0.3
+	local_population_capacity_modifier = 0.4
+	local_slaves_desired_pop_ratio = 0.1
+}
+island_of_tyre = {
+	local_state_trade_routes = 1
+	local_defensive = 0.20
+}
+tadmor_crossroads = {
+	local_state_trade_routes = 2
+}
+red_sea_trade = {
+	local_state_trade_routes = 2
+}
+black_sea_trade = {
+	local_state_trade_routes = 2
+}
+euboia_strait = {
+	local_state_trade_routes = 2
+}
+lebanon_cedar = {
+	base_resources = 1
+	local_goods_from_slaves = -2
+}
+urshu_resin = {
+	base_resources = 1
+}
+colonization_progress = {
+	local_tribesmen_output = -0.6
+	local_freemen_output = -0.6
+	local_slaves_output = -0.6
+	local_monthly_civilization = 0.5
+}
+recently_pillaged = {
+	local_migration_attraction = -5
+	local_migration_speed = 1
+}
+city_construction = {
+	local_citizen_output = -0.2
+}

@@ -1,0 +1,341 @@
+﻿#_heritage = {
+#	modifier = {
+#
+#	}
+#	trigger = {
+#		
+#	}
+#}
+overlord_heritage = {
+	modifier = {
+		subject_loyalty = 5
+		tribute_income_modifier = 0.15
+
+		agressive_expansion_impact = 0.2
+	}
+	trigger = {
+		is_overlord = yes
+	}
+}
+tin_heritage = {
+	modifier = {
+
+	}
+	trigger = {
+		always = no
+		#any_owned_province = { trade_goods = tin }
+	}
+}
+bread_basket_heritage = {
+	modifier = {
+		global_goods_from_slaves = -1
+		global_population_capacity_modifier = 0.05
+
+		research_points_modifier = -0.05
+	}
+	trigger = {
+		capital_scope = {
+			state = {
+				any_state_province = {
+					count >= 3
+					trade_goods = grain
+				}
+			}
+		}
+	}
+}
+foreign_faiths_heritage = {
+	modifier = {
+		happiness_for_wrong_culture_modifier = 0.05
+		religious_tech_investment = 0.1
+
+		global_pop_conversion_speed_modifier = -0.15
+	}
+	trigger = {
+		capital_scope = {
+			state = {
+				any_state_province = {
+					count >= 2
+					NOT = { dominant_province_religion = root.religion }
+				}
+			}
+		}
+	}
+}
+has_riches_heritage = {
+	modifier = {
+		global_tax_modifier = 0.05
+		global_capital_trade_routes = 1
+
+		monthly_corruption = 0.02
+	}
+	trigger = {
+		capital_scope = {
+			OR = {
+				state = {
+					any_state_province = {
+						count >= 2
+						trade_goods = gems
+						trade_goods = precious_metals
+					}
+				}
+				province_id = 556
+				province_id = 1474
+			}
+		}
+	}
+}
+pirate_heritage = {
+	modifier = {
+		mercenary_naval_maintenance_cost = -0.1
+		naval_range = 0.1
+		army_maintenance_cost = 0.05
+	}
+	
+	trigger = {
+		capital_scope = {
+			has_province_modifier = pirate_haven_modifier
+		}
+	}
+}
+
+stronghold_heritage = {
+	modifier = {
+		global_defensive = 0.1
+		experience_decay = -0.003
+
+		global_pop_promotion_speed_modifier = -0.1
+	}
+	trigger = {
+		capital_scope = {
+			area = {
+				any_neighbor_area = {
+					count <= 2
+				}
+				NOT = {
+					any_area_province = {
+						OR = {
+							any_neighbor_province = {	
+								is_sea = yes	
+							}
+							is_adjacent_to_major_river = yes
+						}
+					}
+				}
+			}
+		}
+	}
+}
+seafaring_heritage = {
+	modifier = {
+		#good
+		navy_maintenance_cost = -0.1
+		naval_range = 0.25
+		
+		#bad
+		global_manpower_modifier = -0.05
+		
+	}
+	
+	trigger = {
+		capital_scope = {
+			is_port = yes
+			is_adjacent_to_major_river = no
+		}
+	}
+}
+
+coastal_heritage = {
+	
+	modifier = {
+		global_export_commerce_modifier = 0.1
+		price_state_investment_oratory_cost_modifier = -0.05
+		
+		fortress_building_cost = 0.1
+	}
+	
+	trigger = {
+		capital_scope = {
+			is_coastal = yes
+		}
+	}
+}
+
+river_plain_heritage = {
+	
+	modifier = {
+		global_population_capacity_modifier = 0.1
+		manpower_recovery_speed = 0.05
+		
+		global_defensive = -0.1
+	}
+	
+	trigger = {
+		capital_scope = {
+			OR = {
+				terrain = farmland
+				terrain = plains
+			}
+			is_adjacent_to_major_river = yes
+		}
+	}
+}
+
+steppe_heritage = {
+
+	modifier = {
+		chariots_maintenance_cost = -0.1
+		enslavement_efficiency = 0.04
+		
+		army_weight_modifier = 0.05
+	}
+	
+	trigger = {
+		capital_scope = {
+			OR = {
+				terrain = plains
+				terrain = desert
+			}
+		}
+	}
+	
+	
+}
+
+rural_heritage = { #Pseudo Rome
+	
+	modifier = {
+		price_found_city_cost_modifier = -0.2
+		price_state_investment_military_cost_modifier = -0.1
+		global_tribesmen_happyness = -0.05
+	}
+	
+	trigger = {
+		capital_scope = {
+			OR = {
+				terrain = plains
+				terrain = farmland
+			}
+		}
+	}
+}
+
+montane_heritage = {
+	modifier = {
+		global_defensive = 0.05
+		improve_relation_impact = -0.1
+	}
+
+	trigger = {
+		capital_scope = {
+			OR = {
+				terrain = mountain
+				terrain = mountain_valley
+			}
+		}
+	}
+}
+
+desert_heritage = {
+	
+	modifier = {
+		enslavement_efficiency = 0.04
+		army_weight_modifier = -0.1
+		naval_morale_modifier = -0.05
+	}
+
+	trigger = {
+		capital_scope = {
+			OR = {
+				terrain = desert
+				terrain = desert_hills
+				terrain = desert_valley
+			}
+		}
+	}
+}
+
+jungle_heritage = {
+	modifier = {
+		hostile_attrition = 0.1
+		navy_maintenance_cost = 0.1
+	}
+
+	trigger = {
+		capital_scope = {
+			terrain = jungle
+		}
+	}
+}
+
+forest_heritage = {
+	modifier = {
+		archers_offensive = 0.1
+		global_tribesmen_happyness = 0.05
+		build_cost = 0.1
+	}
+
+	trigger = {
+		capital_scope = {
+			OR = {
+				terrain = forest
+				terrain = deep_forest
+			}
+		}
+	}
+}
+
+marshland_heritage = {
+	modifier = {
+		global_tax_modifier = 0.05
+		manpower_recovery_speed = -0.05
+	}
+	
+	trigger = {
+		capital_scope = {
+			terrain = marsh
+		}
+	}
+}
+
+highland_heritage = {
+	modifier = {
+		fortress_building_cost = -0.1
+		price_state_investment_civic_cost_modifier = -0.05
+		naval_damage_taken = 0.05
+	}
+	
+	trigger = {
+		capital_scope = {
+			terrain = hills
+		}
+	}
+}
+oasis_heritage = {
+	modifier = {
+		army_weight_modifier = -0.1
+		diplomatic_range_modifier = 0.25
+
+		global_pop_promotion_speed_modifier = -0.05
+	}
+	
+	trigger = {
+		capital_scope = {
+			terrain = oasis
+		}
+	}
+}
+flood_plain_heritage = {
+	modifier = {
+		army_weight_modifier = -0.1
+		diplomatic_range_modifier = 0.25
+
+		global_pop_promotion_speed_modifier = -0.05
+	}
+	
+	trigger = {
+		capital_scope = {
+			terrain = flood_plain
+		}
+	}
+}

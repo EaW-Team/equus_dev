@@ -1,0 +1,12 @@
+# Colors are mostly used by flags, but are seperated because they can be used by other parts as well. 
+
+colors = {
+	ur_gold = hsv { 0.09 0.92 0.85 }
+	#thebes_main_color = hsv { 0.29 0.55 0.85 }
+	thebes_main_color = hsv { 0.09 0.85 0.90 }
+	thebes_secondary_color = hsv { 0.22 0.15 0.40 }
+	thebes_background_color = hsv { 0.46 0.1 0.87 }
+	akkadian_red = hsv { 0 0.91 0.55 }
+	kemet_orange = rgb { 280 100 12 }
+}
+

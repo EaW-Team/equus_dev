@@ -1,0 +1,314 @@
+﻿colonize_effect = {
+	create_state_pop = freemen
+	add_province_modifier = {
+		name = "colonization_progress"
+		duration = 365
+	}
+}
+pay_colonize_effect = {
+	hidden_effect = {
+		owner = {
+			pay_price = price_colonize
+			add_manpower = -3
+		}
+	}
+}
+found_city_effect = {
+	add_province_modifier = {
+		name = "city_construction"
+		duration = 365
+	}
+	set_city_status = city
+	while = {
+		count = 3
+		random_pops_in_province = {
+			limit = {
+				OR = {
+					pop_type = tribesmen
+					pop_type = freemen
+				}
+			}
+			set_pop_type = citizen
+		}
+	}
+}
+pay_found_city_effect = {
+	owner = {
+		pay_price = price_found_city
+	}
+}
+expand_city_effect = {
+	if = {
+		limit = {
+			has_province_rank = city
+		}
+		set_city_status = city_metropolis
+	}
+}
+demote_city_effect = {
+	if = {
+		limit = {
+			has_province_rank = city_metropolis
+		}
+		set_city_status = city
+	}
+	else_if = {
+		limit = {
+			has_province_rank = city
+		}
+		destroy_city_effect = yes
+	}
+}
+pay_expand_city_effect = {
+	owner = {
+		pay_price = price_found_metropolis
+	}
+}
+destroy_city_effect = {
+	set_city_status = settlement
+	every_neighbor_province = {
+		limit = {
+			NOR = {
+				is_sea = yes
+				terrain = riverine_terrain
+			}
+		}
+		add_neighbor_city_modifier_effect = yes
+	}
+	every_pops_in_province = {
+		limit = {
+			pop_type = citizen
+		}
+		set_pop_type = freemen
+	}
+}
+civilization_value_setup_effect = {
+	add_civilization_value = -100
+	if = {
+		limit = { 
+			total_population >= 1
+			is_uninhabitable = no
+		}
+		add_civilization_value = 20
+		if = {
+			limit = { has_city_status = yes }
+			add_civilization_value = 25
+		}
+		if = {
+			limit = { has_owner = no }
+			add_civilization_value = -10
+		}
+		else_if = {
+			limit = { 
+				has_owner = yes
+				trigger_if = {
+					limit = { has_owner = yes }
+					owner = { is_monarchy = yes } 
+				}
+			}
+			add_civilization_value = 5
+		}
+		if = {
+			limit = { terrain = deep_forest }
+			add_civilization_value = -10
+		}
+		if = {
+			limit = { terrain = desert_hills }
+			add_civilization_value = -10
+		}
+		if = {
+			limit = { terrain = desert_valley }
+			add_civilization_value = -10
+		}
+		if = {
+			limit = { terrain = flood_plain }
+			add_civilization_value = 5
+		}
+		if = {
+			limit = { terrain = mountain }
+			add_civilization_value = -10
+		}
+		if = {
+			limit = { terrain = hills }
+			add_civilization_value = -5
+		}
+		if = {
+			limit = { terrain = desert }
+			add_civilization_value = -15
+		}
+		if = {
+			limit = { terrain = marsh }
+			add_civilization_value = -10
+		}
+		if = {
+			limit = { terrain = jungle }
+			add_civilization_value = -15
+		}
+		if = {
+			limit = { terrain = farmland }
+			add_civilization_value = 5
+		}
+		if = {
+			limit = { terrain = forest }
+			add_civilization_value = -5
+		}
+		if = {
+			limit = {
+				has_owner = yes
+				trigger_if = {
+					limit = { has_owner = yes }
+					owner = { has_military_tradition = mesopotamian_philosophy } 
+				}
+			}
+			add_civilization_value = 5
+		}
+		while = { #From the modifier
+			count = neighbor_cities_svalue
+
+			add_civilization_value = 4
+		}
+	}
+	else_if = {
+		limit = {
+			is_sea = no
+			NOT = { terrain = riverine_terrain }
+			is_uninhabitable = yes
+		}
+	}
+}
+sumerian_revolt_start_effect = {
+	c:URK = {
+		add_alliance = c:URR
+		add_alliance = c:MMA
+		add_alliance = c:LGS
+		add_alliance = c:LRK
+		add_alliance = c:ADB
+		add_alliance = c:SNN
+		add_alliance = c:DER
+		add_alliance = c:MRD
+		add_alliance = c:KSH
+		add_alliance = c:BBL
+		add_alliance = c:SPR
+		add_alliance = c:KTH
+		add_alliance = c:MGM
+		add_alliance = c:RPQ
+		add_alliance = c:MHR
+		add_alliance = c:ESH
+		add_alliance = c:KGL
+		add_alliance = c:DBT
+		add_alliance = c:APL
+	}
+	c:GTM = {
+		declare_war_with_wargoal = {
+			war_goal = conquer_wargoal
+		    province = p:6022
+			target = c:URK
+		}
+		set_variable = {
+			name = ba_starting_war
+			value = 1
+		}
+		add_country_modifier = {
+			name = gutian_horde
+			duration = 3650
+		}
+		capital_scope.governorship = {
+			raise_legion = {
+				create_unit = {
+					location = 6126
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = archers
+					add_subunit = archers
+					add_subunit = archers
+					add_subunit = engineer_cohort
+					add_subunit = engineer_cohort
+					add_subunit = engineer_cohort
+					add_subunit = engineer_cohort
+				}
+			}
+		}
+		every_unit = {
+			add_food = 100
+		}
+		every_countries_at_war_with = {
+			#target = c:GTM
+			every_unit = {
+				add_food = 100
+			}
+		}
+		add_manpower = 15
+		every_navy = {
+			destroy_unit = yes
+		}
+		add_treasury = 150
+	}
+	c:URK = {
+		set_variable = {
+			name = ba_starting_war
+			value = 1
+		}
+		#break_alliance = c:URR
+		break_alliance = c:MMA
+		break_alliance = c:LGS
+		break_alliance = c:LRK
+		break_alliance = c:ADB
+		break_alliance = c:SNN
+		break_alliance = c:DER
+		break_alliance = c:MRD
+		break_alliance = c:KSH
+		break_alliance = c:BBL
+		break_alliance = c:SPR
+		break_alliance = c:KTH
+		break_alliance = c:MGM
+		break_alliance = c:RPQ
+		break_alliance = c:MHR
+		break_alliance = c:ESH
+		break_alliance = c:KGL
+		break_alliance = c:DBT
+		break_alliance = c:APL
+		capital_scope.governorship = {
+			raise_legion = {
+				create_unit = {
+					location = 6022
+					add_subunit = archers
+					add_subunit = archers
+					add_subunit = archers
+					add_subunit = archers
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = chariots
+					add_subunit = heavy_cavalry
+					add_subunit = heavy_cavalry
+					add_subunit = engineer_cohort
+					add_subunit = engineer_cohort
+				}
+			}
+		}
+	}
+}
+add_neighbor_city_modifier_effect = { #Province scope
+	if = {
+		limit = { has_province_modifier = neighbor_city }
+		remove_province_modifier = neighbor_city
+	}
+	while = {
+		count = neighbor_cities_svalue
+
+		add_permanent_province_modifier = {
+			name = neighbor_city
+			mode = add
+		}
+	}
+}

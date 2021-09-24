@@ -1,0 +1,158 @@
+﻿allowed_to_build_pyramids_trigger = {
+	government = egyptian_dynasty
+}
+is_mortuary_trigger = {
+	has_variable = mortuary_$BIG$
+}
+is_pyramid_trigger = {
+	has_variable = pyramid_$BIG$
+}
+big_slot_open_trigger = {
+	NOR = {
+		is_mortuary_trigger = {
+			BIG = $BIG$
+		}
+		is_pyramid_trigger = {
+			BIG = $BIG$
+		}
+	}
+}
+small_slot_open_trigger = {
+	NOR = {
+		has_variable = pyramid_$BIG$_$SMALL$
+		has_variable = mortuary_$BIG$_$SMALL$
+		has_variable = tomb_$BIG$_$SMALL$
+	}
+}
+big_slot_finished_trigger = {
+	has_variable = finished_construction_$BIG$
+}
+small_slot_finished_trigger = {
+	has_variable = finished_construction_$BIG$_$SMALL$
+}
+big_in_progress_trigger = {
+	has_province_modifier =complex_construction_progress_$BIG$
+}
+small_in_progress_trigger = {
+	custom_tooltip = {
+		text = "SMALL_PYRAMID_IN_PROGRESS_TT"
+		has_province_modifier = complex_construction_progress_$BIG$_$SMALL$
+	}
+}
+can_build_big_pyramid_trigger = {
+	state = {
+		custom_tooltip = {
+			text = "BIG_PYRAMID_STONE_TT"
+			trade_good_surplus = {
+				target = stone
+				value >= 5
+			}
+		}
+		custom_tooltip = {
+			text = "BIG_PYRAMID_MARBLE_TT"
+			trade_good_surplus = {
+				target = marble
+				value >= 3
+			}
+		}
+		custom_tooltip = {
+			text = "SMALL_TOMB_NATRON_TT"
+			trade_good_surplus = {
+				target = natron
+				value >= 2
+			}
+		}
+	}
+}
+can_build_big_mortuary_trigger = {
+	state = {
+		custom_tooltip = {
+			text = "BIG_MORTUARY_STONE_TT"
+			trade_good_surplus = {
+				target = stone
+				value >= 3
+			}
+		}
+		custom_tooltip = {
+			text = "BIG_MORTUARY_MARBLE_TT"
+			trade_good_surplus = {
+				target = marble
+				value >= 4
+			}
+		}
+	}
+}
+can_build_small_pyramid_trigger = {
+	state = {
+		custom_tooltip = {
+			text = "SMALL_PYRAMID_STONE_TT"
+			trade_good_surplus = {
+				target = stone
+				value >= 3
+			}
+		}
+		custom_tooltip = {
+			text = "SMALL_PYRAMID_MARBLE_TT"
+			trade_good_surplus = {
+				target = marble
+				value >= 2
+			}
+		}
+		custom_tooltip = {
+			text = "SMALL_TOMB_NATRON_TT"
+			trade_good_surplus = {
+				target = natron
+				value >= 2
+			}
+		}
+	}
+}
+can_build_small_mortuary_trigger = {
+	state = {
+		custom_tooltip = {
+			text = "SMALL_MORTUARY_STONE_TT"
+			trade_good_surplus = {
+				target = stone
+				value >= 2
+			}
+		}
+		custom_tooltip = {
+			text = "SMALL_MORTUARY_MARBLE_TT"
+			trade_good_surplus = {
+				target = marble
+				value >= 3
+			}
+		}
+	}
+}
+can_build_small_tomb_trigger = {
+	state = {
+		custom_tooltip = {
+			text = "SMALL_TOMB_MARBLE_TT"
+			trade_good_surplus = {
+				target = marble
+				value >= 2
+			}
+		}
+		custom_tooltip = {
+			text = "SMALL_TOMB_GOLD_TT"
+			OR = {
+				trade_good_surplus = {
+					target = precious_metals
+					value >= 2
+				}
+				trade_good_surplus = {
+					target = gems
+					value >= 2
+				}
+			}
+		}
+		custom_tooltip = {
+			text = "SMALL_TOMB_NATRON_TT"
+			trade_good_surplus = {
+				target = natron
+				value >= 2
+			}
+		}
+	}
+}

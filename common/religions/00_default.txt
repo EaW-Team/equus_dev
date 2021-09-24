@@ -1,0 +1,50 @@
+﻿aegean_religion = { #p1
+	color = hsv { 0.5 0.3 0.5 }
+	modifier = { navy_maintenance_cost = -0.1 }
+	religion_category = pantheon
+}
+cypriot_religion = {#p2
+	color = hsv { 0.05 0.93 0.8 }
+	modifier = { global_export_commerce_modifier = 0.2 }
+	religion_category = pantheon
+}
+hellenic_religion = {#p3
+	color = hsv { 0.65 0.7 0.8 }
+	modifier = { global_tribesmen_output = 0.05 }
+	religion_category = pantheon
+}
+anatolian_religion = {#p4
+	color = hsv { 0.8 0.6 0.1 }
+	modifier = { global_defensive = 0.1 }
+	religion_category = pantheon
+}
+mesopotamian_religion = {#p5
+	color = hsv{ 0.7 0.7 0.2}
+	modifier = { global_citizen_happyness = 0.1 }
+	religion_category = pantheon
+}
+egyptian_religion = {#p6
+	color = hsv { 0.15 1 0.7 }
+	modifier = { ruler_popularity_gain = 0.1 }
+	religion_category = pantheon
+}
+berber_religion = {
+	color = hsv{ 0.7 0.9 0.5 }
+	modifier = { start_migration_cost_modifier = -0.1 }
+	religion_category = pantheon
+}
+canaanite_religion = {#p7
+	color = hsv { 0.2 0.9 0.2 }
+	modifier = { global_pop_assimilation_speed_modifier = 0.2 }
+	religion_category = pantheon
+}
+hurrian_religion = {#p9
+	color = hsv { 0.33 0.46 0.63 }
+	modifier = { monthly_military_experience_modifier = 0.05 }
+	religion_category = pantheon
+}
+elamite_religion = {
+	color = hsv { 0.17 0.40 0.81 }
+	modifier = { manpower_recovery_speed = 0.05 }
+	religion_category = pantheon
+}

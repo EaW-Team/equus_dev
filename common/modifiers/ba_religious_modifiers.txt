@@ -1,0 +1,390 @@
+﻿#religious_centralization = { #Centralized has a risk, high centralization and low legitimacy means bad things happen (events and maybe more)
+#religious_decentralization = { # Low Centralization means a more stable and peaceful realm
+# Usable Icons from Military Traditions
+# Rousing Oratory (Roman), Roman Roads (Roman), Logistics of State (Roman)
+# Tribal 7, Roman 4, Support  5,
+# Celtic: Take up Arms, The Plains fight with us, Natural Resources, Living off the land, 
+# Britannic 3, Britannic 7, Gallic 3, Germanic 2,
+# Carthaginian: Imposing Edifices, To each their own, Uneasy Relations, 
+# Army 4, Naval 6, Tribal End Path,
+# Greek: Mastery of the Mountain, City State Fortification, Veterans of the Great Campaign
+# Antigonid 2, Antigonid 6, States 7,
+# Levantine: Stonemovers, Colonial Integration, Unending Riches, Legacy of the Builders, Surfeit of War, 
+# Arabian 6, Egyptian 3, Egyptian 4, Greco 7, Greco 1,
+# Persian: Nomadic Lifestyle, Steppe Mastery, Massed Assault, Heartland, Reactive Recruitment, Greco-Bactria, 
+# Scythian 2, Scythian 6, Achemenid 4, Achemenid end path, Bactrian 2, Bactrian 7
+# Indian: City of the World's Desire, Exotic Soldiers, Integrating the Tribes, 
+# Coastal 6, Mauryas 7, Noble 7, 
+#
+####################################
+####						Centralized
+# Empower Priestly Class 					Servants to tdhe Gods
+## 								Temples (Dedicate to a God)
+# Kingly Judges of the Afterworld			Temple Bureaucracy
+## 								Astrology
+# Capitals God King of the Gods				Kings Patron God
+## 								Divine King 
+###################################
+####	Decentralized 			Caves	Shrines		Entrails
+# Protective Spirits						!Harvest Festivals
+## 								!Pilgrimage
+# Rejuvenating Springs						!Philosophers
+##								!Sanctuaries
+# Private Sanctuaries						!Patron Dieties
+##								!Oracle
+###################################
+#	Religious Actions: (Temple replaces Site)
+#		Build Sacred Site/Temple (Dedicate City/Religious Site to a God) ("Automatic")
+#		Hold Religious Rites	(Increase Status of City/Site God)
+#		Consult Oracle
+#		Consult Augur of War
+#		Divinify King
+#		Coronate King by High Priest
+#		
+#
+#
+protective_spirits = {
+	global_freemen_happyness = 0.1
+}
+harvest_festivals = {
+	global_monthly_food_modifier = 0.05
+}
+pilgrimage = {
+	global_migration_speed_modifier = 0.3
+	global_commerce_modifier = 0.25
+}
+rejuvenating_springs = {
+	global_tribesmen_happyness = 0.1
+}
+philosophers = {
+	research_points_modifier = 0.05
+	price_build_shrines_cost_modifier = -0.15
+}
+sanctuaries = {
+	#enables Sanctuaries
+	global_pop_promotion_speed_modifier = 0.3
+}
+private_sanctuaries = { # Anchorites
+	happiness_for_same_religion_modifier = 0.05
+}
+patron_deities = {
+	global_pop_assimilation_speed_modifier = 0.25
+}
+oracle_tradition = {
+	#enables Oracle
+	diplomatic_relations = 2
+	diplomatic_reputation = 2
+}
+empower_priestly_class = {
+	global_pop_conversion_speed_modifier = 0.25
+	research_points_modifier = 0.05
+}
+servants_to_the_gods = {
+	global_freemen_output = 0.1
+}
+grand_temples = {
+	global_pop_promotion_speed_modifier = 0.3
+	price_build_temple_1_cost_modifier = -0.1
+}
+judges_of_the_afterworld = {
+	ruler_popularity_gain = 0.05
+	##monthly_character_loyalty = 0.05
+}
+temple_bureaucracy = {
+	research_points_modifier = 0.1
+	global_tax_modifier = 0.05
+}
+astrology = {
+	global_monthly_civilization = 0.05
+	omen_power = 0.25
+	call_omen_cost_modifier = -0.1
+}
+king_of_the_gods = {
+	global_monthly_state_loyalty = 0.05
+	global_capital_trade_routes = 1
+}
+kings_personal_god = {
+	monthly_legitimacy = 0.05
+	global_unrest = -1
+}
+divine_king = {
+	#Enables Divination action
+	monthly_legitimacy = 0.05
+	ruler_popularity_gain = 0.05
+}
+####ACTIONS
+recent_festival = {
+	local_freemen_happyness = 0.1
+	local_tribesmen_happyness = 0.1
+}
+recent_ceremony = {
+	local_citizen_happyness = 0.1
+}
+living_god = {
+	#power_base = 15
+	#charisma = 3
+}
+####
+religion_rank_1 = {
+	global_pop_conversion_speed = 2
+}
+religion_rank_2 = {
+	global_pop_conversion_speed = 1.5
+}
+religion_rank_3 = {
+	global_pop_conversion_speed = 1.25
+}
+religion_rank_4 = {
+	global_pop_conversion_speed = 1
+}
+religion_rank_5 = {
+	global_pop_conversion_speed = 0.8
+}
+religion_rank_6 = {
+	global_pop_conversion_speed = 0.6
+}
+religion_rank_7 = {
+	global_pop_conversion_speed = 0.4
+}
+religion_rank_8 = {
+	global_pop_conversion_speed = 0.2
+}
+religion_rank_9 = {
+	global_pop_conversion_speed = 0
+}
+religious_centralization_10 = {
+	
+	happiness_for_same_religion_modifier = 0.3
+	monthly_legitimacy = 0.15
+	ruler_popularity_gain = 0.15
+	diplomatic_relations = 4
+	global_monthly_civilization = 0.2
+	monthly_political_influence_modifier = 0.35
+	enact_law_cost_modifier = -0.35
+	global_monthly_state_loyalty = 0.15
+
+	max_loyalty = -10
+	monthly_tyranny = 0.2
+	happiness_for_wrong_culture_modifier = -0.3
+	##monthly_character_loyalty = -0.125
+}
+religious_centralization_9 = {
+	happiness_for_same_religion_modifier = 0.25
+	monthly_legitimacy = 0.125
+	ruler_popularity_gain = 0.125
+	max_loyalty = -8
+	diplomatic_relations = 3
+	global_monthly_civilization = 0.175
+	monthly_tyranny = 0.15
+	monthly_political_influence_modifier = 0.30
+	enact_law_cost_modifier = -0.3
+	happiness_for_wrong_culture_modifier = -0.25
+	##monthly_character_loyalty = -0.1
+	global_monthly_state_loyalty = 0.125
+}
+religious_centralization_8 = {
+	happiness_for_same_religion_modifier = 0.2
+	monthly_legitimacy = 0.1
+	ruler_popularity_gain = 0.1
+	max_loyalty = -8
+	diplomatic_relations = 3
+	global_monthly_civilization = 0.15
+	monthly_tyranny = 0.125
+	monthly_political_influence_modifier = 0.25
+	enact_law_cost_modifier = -0.25
+	happiness_for_wrong_culture_modifier = -0.2
+	##monthly_character_loyalty = -0.075
+	global_monthly_state_loyalty = 0.1
+}
+religious_centralization_7 = {
+	happiness_for_same_religion_modifier = 0.15
+	monthly_legitimacy = 0.075
+	ruler_popularity_gain = 0.1
+	max_loyalty = -6
+	diplomatic_relations = 2
+	global_monthly_civilization = 0.15
+	monthly_tyranny = 0.1
+	monthly_political_influence_modifier = 0.2
+	enact_law_cost_modifier = -0.2
+	happiness_for_wrong_culture_modifier = -0.15
+	#monthly_character_loyalty = -0.075
+	global_monthly_state_loyalty = 0.075
+}
+religious_centralization_6 = {
+	happiness_for_same_religion_modifier = 0.15
+	monthly_legitimacy = 0.075
+	ruler_popularity_gain = 0.075
+	max_loyalty = -6
+	diplomatic_relations = 2
+	global_monthly_civilization = 0.125
+	monthly_tyranny = 0.075
+	monthly_political_influence_modifier = 0.15
+	enact_law_cost_modifier = -0.2
+	happiness_for_wrong_culture_modifier = -0.15
+	#monthly_character_loyalty = -0.075
+	global_monthly_state_loyalty = 0.075
+}
+religious_centralization_5 = {
+	happiness_for_same_religion_modifier = 0.1
+	monthly_legitimacy = 0.05
+	ruler_popularity_gain = 0.075
+	max_loyalty = -4
+	diplomatic_relations = 1
+	global_monthly_civilization = 0.1
+	monthly_tyranny = 0.075
+	monthly_political_influence_modifier = 0.15
+	enact_law_cost_modifier = -0.2
+	happiness_for_wrong_culture_modifier = -0.15
+	#monthly_character_loyalty = -0.05
+	global_monthly_state_loyalty = 0.075
+}
+religious_centralization_4 = {
+	happiness_for_same_religion_modifier = 0.1
+	monthly_legitimacy = 0.05
+	ruler_popularity_gain = 0.05
+	max_loyalty = -4
+	diplomatic_relations = 1
+	global_monthly_civilization = 0.08
+	monthly_tyranny = 0.05
+	monthly_political_influence_modifier = 0.15
+	enact_law_cost_modifier = -0.15
+	happiness_for_wrong_culture_modifier = -0.1
+	#monthly_character_loyalty = -0.05
+	global_monthly_state_loyalty = 0.05
+}
+religious_centralization_3 = {
+	happiness_for_same_religion_modifier = 0.05
+	monthly_legitimacy = 0.1
+	ruler_popularity_gain = 0.05
+	max_loyalty = -2
+	diplomatic_relations = 1
+	global_monthly_civilization = 0.08
+	monthly_tyranny = 0.03
+	monthly_political_influence_modifier = 0.1
+	enact_law_cost_modifier = -0.15
+	happiness_for_wrong_culture_modifier = -0.1
+	#monthly_character_loyalty = -0.03
+	global_monthly_state_loyalty = 0.03
+}
+religious_centralization_2 = {
+	happiness_for_same_religion_modifier = 0.05
+	ruler_popularity_gain = 0.03
+	global_monthly_civilization = 0.05
+	monthly_political_influence_modifier = 0.1
+	enact_law_cost_modifier = -0.1
+	global_monthly_state_loyalty = 0.03
+}
+religious_centralization_1 = {
+	ruler_popularity_gain = 0.02
+	global_monthly_civilization = 0.05
+	enact_law_cost_modifier = -0.1
+}
+religious_centralization_0 = {
+	
+}
+religious_centralization_neg1 = {
+	stability_monthly_change = 0.02
+	#monthly_character_loyalty = 0.02
+	happiness_for_wrong_culture_modifier = 0.05
+}
+religious_centralization_neg2 = {
+	stability_monthly_change = 0.03
+	#monthly_character_loyalty = 0.03
+	happiness_for_wrong_culture_modifier = 0.075
+}
+religious_centralization_neg3 = {
+	stability_monthly_change = 0.04
+	#monthly_character_loyalty = 0.04
+	happiness_for_wrong_culture_modifier = 0.1
+	monthly_tyranny = -0.05
+	max_loyalty = 2
+	diplomatic_reputation = 1
+
+	global_monthly_state_loyalty = -0.02
+	global_pop_conversion_speed_modifier = -0.05
+	monthly_political_influence_modifier = -0.05
+}
+religious_centralization_neg4 = {
+	stability_monthly_change = 0.05
+	#monthly_character_loyalty = 0.05
+	happiness_for_wrong_culture_modifier = 0.125
+	monthly_tyranny = -0.075
+	max_loyalty = 4
+	diplomatic_reputation = 2
+
+	global_monthly_state_loyalty = -0.03
+	global_pop_conversion_speed_modifier = -0.10
+	monthly_political_influence_modifier = -0.07
+}
+religious_centralization_neg5 = {
+	stability_monthly_change = 0.06
+	#monthly_character_loyalty = 0.06
+	happiness_for_wrong_culture_modifier = 0.15
+	monthly_tyranny = -0.075
+	max_loyalty = 4
+	diplomatic_reputation = 2
+
+	global_monthly_state_loyalty = -0.04
+	global_pop_conversion_speed_modifier = -0.20
+	monthly_political_influence_modifier = -0.10
+}
+religious_centralization_neg6 = {
+	stability_monthly_change = 0.07
+	#monthly_character_loyalty = 0.07
+	happiness_for_wrong_culture_modifier = 0.15
+	monthly_tyranny = -0.1
+	max_loyalty = 6
+	diplomatic_reputation = 3
+
+	global_monthly_state_loyalty = -0.05
+	global_pop_conversion_speed_modifier = -0.25
+	monthly_political_influence_modifier = -0.13
+}
+religious_centralization_neg7 = {
+	stability_monthly_change = 0.08
+	#monthly_character_loyalty = 0.08
+	happiness_for_wrong_culture_modifier = 0.175
+	monthly_tyranny = -0.125
+	max_loyalty = 6
+	diplomatic_reputation = 3
+
+	global_monthly_state_loyalty = -0.07
+	global_pop_conversion_speed_modifier = -0.3
+	monthly_political_influence_modifier = -0.15
+}
+religious_centralization_neg8 = {
+	stability_monthly_change = 0.09
+	#monthly_character_loyalty = 0.09
+	happiness_for_wrong_culture_modifier = 0.2
+	monthly_tyranny = -0.125
+	max_loyalty = 8
+	diplomatic_reputation = 4
+
+	global_monthly_state_loyalty = -0.09
+	global_pop_conversion_speed_modifier = -0.3
+	monthly_political_influence_modifier = -0.2
+}
+religious_centralization_neg9 = {
+	stability_monthly_change = 0.1
+	#monthly_character_loyalty = 0.1
+	happiness_for_wrong_culture_modifier = 0.25
+	monthly_tyranny = -0.15
+	max_loyalty = 8
+	diplomatic_reputation = 4
+
+	global_monthly_state_loyalty = -0.12
+	global_pop_conversion_speed_modifier = -0.35
+	monthly_political_influence_modifier = -0.25
+}
+religious_centralization_neg10 = {
+	stability_monthly_change = 0.12
+	#monthly_character_loyalty = 0.12
+	happiness_for_wrong_culture_modifier = 0.3
+	monthly_tyranny = -0.2
+	max_loyalty = 10
+	diplomatic_reputation = 5
+
+	global_monthly_state_loyalty = -0.15
+	global_pop_conversion_speed_modifier = -0.4
+	monthly_political_influence_modifier = -0.3
+}

@@ -1,0 +1,5 @@
+﻿TH1 = {
+	329 = PROV329_TH1
+}
+akkadian = {
+}

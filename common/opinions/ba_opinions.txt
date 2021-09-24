@@ -1,0 +1,12 @@
+﻿oracle_victory_opinion = {
+	value = -100
+	yearly_decay = 5
+}
+trading_colony_granted = {
+	value = 100
+	yearly_decay = 2
+}
+rival_dynasty = {
+	value = -200
+	yearly_decay = 0
+}

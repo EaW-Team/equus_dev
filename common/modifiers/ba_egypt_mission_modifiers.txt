@@ -1,0 +1,104 @@
+﻿abu_fort_modifier = {
+	local_cohort_start_experience = 0.1
+	local_defensive = 0.25
+}
+
+wadi_hammamat_major_mine = {
+	base_resources = 1
+}
+
+kushite_trade_modifier = {
+	local_state_trade_routes = 1
+	local_base_trade_routes_modifier = 0.25
+}
+
+nomarchs_crushed = {
+	discipline = 0.05
+}
+
+religious_site_captured_modifier = {
+	land_morale_recovery = 0.1
+	omen_power = 0.2
+}
+
+southern_capital_modifier = {
+	local_base_trade_routes_modifier = 0.50
+	local_building_slot = 3
+	local_country_civilization_value = 10
+}
+
+major_northern_city_modifier = {
+	local_base_trade_routes_modifier = 0.20
+	local_building_slot = 1
+	local_country_civilization_value = 5
+}
+
+major_southern_city_modifier = {
+	local_base_trade_routes_modifier = 0.20
+	local_building_slot = 1
+	local_country_civilization_value = 5
+}
+
+northward_push_modifier = {
+	manpower_recovery_speed = 0.1
+}
+
+nomarchy_crushed_modifier = {
+	manpower_recovery_speed = 0.1
+}
+
+restored_order_modifier = {
+	global_monthly_state_loyalty = 0.05
+	global_monthly_food_modifier = 0.1
+}
+
+nile_stronghold_modifier = {
+	local_cohort_start_experience = 10
+	local_defensive = 0.1
+	local_base_trade_routes_modifier = 0.25
+}
+
+wadjet_temple_modifier = {
+	local_happiness_for_same_religion_modifier = 0.1
+	fort_level = 1
+	local_country_civilization_value = 5
+}
+
+massive_sun_temple_modifier = {
+	local_happiness_for_same_religion_modifier = 0.1
+	tax_income = 3
+	local_country_civilization_value = 5
+}
+
+ptah_temple_modifier = {
+	local_happiness_for_same_religion_modifier = 0.1
+	local_building_slot = 2
+	local_country_civilization_value = 5
+}
+
+great_egyptian_temple_modifier = {
+	local_happiness_for_same_religion_modifier = 0.1
+	tax_income = 3
+	local_country_civilization_value = 5
+}
+
+religious_renaissance_modifier = {
+	omen_power = 1
+	call_omen_cost_modifier = -0.75
+}
+
+nomarchy_reinforcing_modifier = {
+	global_manpower_modifier = -0.1
+}
+
+nomarchy_reinforced_modifier = {
+	global_manpower_modifier = 0.1
+}
+
+nomarchy_granted_trade_modifier = {
+	global_commerce_modifier = -0.1
+}
+
+nomarchy_received_trade_modifier = {
+	global_commerce_modifier = 0.1
+}

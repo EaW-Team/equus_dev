@@ -1,0 +1,201 @@
+﻿# Offensive tactics
+
+hold_the_line = {
+	use_as_default = yes
+
+	enable = yes
+
+	sound = "event:/SFX/UI/Unit/sfx_ui_unit_tactic_set_offensive"
+
+	
+	shock_action = 0.2
+	bottleneck = 0.2
+	envelopment = -0.1
+	deception = -0.1
+	
+	casualties = -0.1
+
+	effective_composition = {
+		archers = 0.75
+		chariots = 0
+		heavy_chariots = 0
+		spearmen = 1.25
+		axemen = 0.25
+		skirmishers = 0.0
+	}
+}
+
+shock_action = {
+
+	enable = yes
+
+	sound = "event:/SFX/UI/Unit/sfx_ui_unit_tactic_set_offensive"
+
+	envelopment = 0.20
+	skirmishing = 0.2
+	hold_the_line = -0.1
+	bottleneck = -0.1
+	
+	casualties = 0.1
+
+	effective_composition = {
+		archers = 0
+		chariots = 0.5
+		heavy_chariots = 2
+		axemen = 1
+		skirmishers = 0.5
+		spearmen = 0.0
+	}
+}
+
+envelopment = {
+	enable = yes
+
+	sound = "event:/SFX/UI/Unit/sfx_ui_unit_tactic_set_offensive"
+
+	bottleneck = 0.20
+	hold_the_line = 0.2
+	shock_action = -0.1
+	skirmishing = -0.1
+	
+	effective_composition = {
+		archers = 0
+		chariots = 0.5
+		heavy_chariots = 0.5
+		spearmen = 0.0
+		axemen = 0.5
+		skirmishers = 1
+	}
+}
+
+skirmishing = {
+	enable = yes
+
+	sound = "event:/SFX/UI/Unit/sfx_ui_unit_tactic_set_offensive"
+	
+	envelopment = 0.20
+	hold_the_line = 0.20
+	deception = -0.1
+	shock_action = -0.1
+		
+	casualties = -0.25
+
+	effective_composition = {
+		archers = 1
+		chariots = 2
+		heavy_chariots = 0
+		skirmishers = 1
+		spearmen = 0.0
+		axemen = 0.0
+	}
+}
+
+deception = {
+	enable = yes
+
+	sound = "event:/SFX/UI/Unit/sfx_ui_unit_tactic_set_offensive"
+
+	skirmishing = 0.2
+	hold_the_line = 0.2
+	bottleneck = -0.1
+	shock_action = -0.1
+
+	effective_composition = {
+		archers = 0
+		chariots = 0
+		heavy_chariots = 1
+		spearmen = 0.5
+		axemen = 0.5
+		skirmishers = 0.5
+	}
+}
+
+bottleneck = {
+	enable = yes
+
+	sound = "event:/SFX/UI/Unit/sfx_ui_unit_tactic_set_offensive"
+
+	shock_action = 0.2
+	deception = 0.2
+	envelopment = -0.1
+	hold_the_line = -0.1
+
+	effective_composition = {
+		archers = 1
+		chariots = 0
+		heavy_chariots = 0
+		spearmen = 0.5
+		axemen = 0.3
+		skirmishers = 0.0
+	}
+}
+
+# Military Tradition
+
+triplex_acies = { #Good vs Envelopment - Bad vs Skirmishing
+
+	enable = no
+
+	sound = "event:/SFX/UI/Unit/sfx_ui_unit_tactic_set_offensive"
+
+	skirmishing = 0.25
+	deception = -0.1
+	hit_and_run_tactics = -0.1
+	bottleneck = 0.25
+	
+	effective_composition = { #
+		archers = 0
+		chariots = 0
+		heavy_chariots = 0
+		spearmen = 0.5
+		axemen = 0.0
+		skirmishers = 0.5
+	}
+}
+
+cavalry_skirmish = {
+
+	enable = no
+
+	sound = "event:/SFX/UI/Unit/sfx_ui_unit_tactic_set_offensive"
+
+	bottleneck = 0.25
+	skirmishing = -0.1
+	hold_the_line = -0.1
+	shock_action = -0.1
+	
+	casualties = -0.1
+
+	effective_composition = {
+		archers = 0
+		chariots = 1.0
+		heavy_chariots = 1.5
+		spearmen = 0.0
+		axemen = 0.0
+		skirmishers = 0.0
+	}
+}
+
+hit_and_run_tactics = {
+
+	enable = no
+
+	sound = "event:/SFX/UI/Unit/sfx_ui_unit_tactic_set_offensive"
+
+	deception = 0.25
+	triplex_acies = 0.25
+	bottleneck = -0.1
+	envelopment = -0.1
+	
+	casualties = -0.1
+
+	effective_composition = {
+		archers = 0.0
+		chariots = 1.0
+		heavy_chariots = 1.0
+		light_cavalry = 1.0
+		spearmen = 0.0
+		axemen = 0.0
+		skirmishers = 0.7
+	}
+}

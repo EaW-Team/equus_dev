@@ -1,0 +1,55 @@
+﻿tukri_heritage = {
+	modifier = {
+		#good
+		global_defensive = 0.1
+		happiness_for_wrong_culture_modifier = 0.1
+		#bad
+		global_pop_assimilation_speed = -0.2
+	}
+	trigger = {
+		primary_culture = tukri
+	}
+}
+
+lullubi_heritage = {
+	modifier = {
+		#good
+		global_tribesmen_output = 0.2
+		#bad
+		global_citizen_city_desired_pop_ratio = -0.05
+	}
+	trigger = {
+		primary_culture = lullubi
+	}
+}
+
+dilmun_heritage = { # 
+	modifier = {
+		#good
+		price_trade_colony_cost_modifier = -0.35
+		diplomatic_range_modifier = 2
+
+		#bad
+		global_manpower_modifier = -0.1
+		
+	}
+	
+	trigger = {
+		primary_culture = dilmunite
+	}
+}
+magan_heritage = { # 
+	modifier = {
+		#good
+		library_building_cost = -0.35
+		diplomatic_range_modifier = 2
+
+		#bad
+		global_pop_promotion_speed_modifier = -0.1
+		
+	}
+	
+	trigger = {
+		primary_culture = maganite
+	}
+}
