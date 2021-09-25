@@ -9,4 +9,4 @@ regions = "regions.txt"
 ports = "ports.csv"
 climate = "climate.txt"
 
-wasteland = RANGE { 7 24 }
+wasteland = RANGE {7 23}
