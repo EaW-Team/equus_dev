@@ -1,82 +1,43 @@
-categories={
-	map_audio_category
-	map_building_category
+﻿categories={
 	map_foliage_category
 }
 layer={
-	name="unit_layer"
-	fade_in=0
-	fade_out=8
-	category="map_building_category"
-	masks="off|low|medium|high"
-}
-layer={
-	name="ports_layer"
-	fade_in=0
-	fade_out=8
-	category="map_building_category"
-	masks="off|low|medium|high"
-}
-layer={
-	name="tree_layer"
-	fade_in=0
-	fade_out=8
-	category="map_foliage_category"
-	masks="low|medium|high"
-}
-layer={
-	name="cities_layer"
-	fade_in=0
-	fade_out=8
-	category="map_building_category"
-	masks="off|low|medium|high"
-}
-layer={
-	name="Audio_layer"
-	fade_in=0
-	fade_out=8
-	category="map_audio_category"
-	masks="off|low|medium|high"
-}
-layer={
-	name="monument_layer"
-	fade_in=0
-	fade_out=8
-	category="map_building_category"
-	masks="low|medium|high"
-}
-layer={
-	name="bush_layer"
+	name="grass_layer"
 	fade_in=0
 	fade_out=6
 	category="map_foliage_category"
-	masks="medium|high"
-}
-layer={
-	name="forts_layer"
-	fade_in=0
-	fade_out=8
-	category="map_building_category"
-	masks="off|low|medium|high"
-}
-layer={
-	name="oak_tree_layer"
-	fade_in=0
-	fade_out=6
-	category="map_foliage_category"
-	masks="low|medium|high"
+	masks="high"
+	visibility_tags=""
 }
 layer={
 	name="lake_layer"
 	fade_in=0
-	fade_out=12
+	fade_out=20
 	category="map_foliage_category"
-	masks="off|low|medium|high"
+	masks="low|medium|high"
+	visibility_tags=""
 }
 layer={
-	name="rock_layer"
+	name="tree_high_layer"
 	fade_in=0
-	fade_out=8
+	fade_out=9
 	category="map_foliage_category"
 	masks="high"
+	visibility_tags=""
+}
+layer={
+	name="tree_low_layer"
+	fade_in=0
+	fade_out=9
+	category="map_foliage_category"
+	masks="low|medium|high"
+	visibility_tags=""
+}
+layer={
+	name="tree_medium_layer"
+	fade_in=0
+	fade_out=9
+	category="map_foliage_category"
+	masks="medium|high"
+	visibility_tags=""
 }
