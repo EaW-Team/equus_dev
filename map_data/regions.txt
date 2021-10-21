@@ -1,4 +1,4 @@
-central_italy_region = {		#9 areas
+﻿central_italy_region = {		#9 areas
 	areas = {
 		roma_area
 	}
