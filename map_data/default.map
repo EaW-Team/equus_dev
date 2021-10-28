@@ -9,6 +9,6 @@ regions = "regions.txt"
 ports = "ports.csv"
 climate = "climate.txt"
 
-sea_zones = RANGE { 511 726 }
+sea_zones = RANGE { 4004 4237 }
 
-wasteland = RANGE { 2 510 }
+wasteland = RANGE { 2 4003 }
