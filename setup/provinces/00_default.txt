@@ -1,0 +1,6537 @@
+﻿1={
+	terrain="hills"
+	culture="roman"
+	religion="hellenic"
+	trade_goods="fish"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+}
+2 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+3 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+4 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+5 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+6 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+7 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+8 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+9 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+10 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+11 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+12 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+13 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+14 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+15 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+16 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+17 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+18 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+19 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+20 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+21 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+22 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+23 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+24 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+25 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+26 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+27 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+28 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+29 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+30 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+31 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+32 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+33 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+34 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+35 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+36 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+37 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+38 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+39 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+40 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+41 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+42 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+43 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+44 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+45 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+46 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+47 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+48 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+49 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+50 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+51 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+52 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+53 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+54 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+55 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+56 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+57 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+58 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+59 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+60 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+61 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+62 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+63 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+64 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+65 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+66 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+67 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+68 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+69 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+70 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+71 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+72 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+73 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+74 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+75 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+76 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+77 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+78 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+79 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+80 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+81 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+82 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+83 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+84 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+85 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+86 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+87 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+88 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+89 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+90 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+91 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+92 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+93 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+94 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+95 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+96 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+97 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+98 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+99 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+100 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+101 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+102 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+103 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+104 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+105 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+106 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+107 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+108 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+109 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+110 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+111 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+112 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+113 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+114 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+115 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+116 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+117 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+118 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+119 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+120 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+121 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+122 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+123 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+124 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+125 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+126 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+127 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+128 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+129 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+130 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+131 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+132 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+133 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+134 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+135 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+136 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+137 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+138 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+139 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+140 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+141 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+142 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+143 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+144 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+145 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+146 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+147 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+148 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+149 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+150 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+151 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+152 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+153 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+154 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+155 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+156 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+157 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+158 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+159 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+160 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+161 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+162 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+163 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+164 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+165 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+166 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+167 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+168 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+169 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+170 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+171 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+172 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+173 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+174 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+175 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+176 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+177 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+178 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+179 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+180 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+181 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+182 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+183 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+184 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+185 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+186 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+187 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+188 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+189 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+190 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+191 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+192 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+193 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+194 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+195 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+196 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+197 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+198 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+199 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+200 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+201 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+202 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+203 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+204 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+205 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+206 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+207 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+208 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+209 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+210 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+211 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+212 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+213 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+214 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+215 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+216 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+217 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+218 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+219 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+220 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+221 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+222 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+223 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+224 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+225 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+226 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+227 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+228 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+229 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+230 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+231 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+232 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+233 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+234 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+235 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+236 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+237 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+238 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+239 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+240 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+241 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+242 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+243 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+244 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+245 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+246 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+247 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+248 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+249 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+250 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+251 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+252 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+253 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+254 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+255 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+256 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+257 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+258 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+259 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+260 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+261 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+262 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+263 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+264 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+265 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+266 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+267 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+268 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+269 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+270 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+271 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+272 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+273 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+274 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+275 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+276 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+277 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+278 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+279 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+280 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+281 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+282 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+283 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+284 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+285 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+286 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+287 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+288 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+289 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+290 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+291 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+292 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+293 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+294 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+295 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+296 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+297 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+298 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+299 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+300 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+301 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+302 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+303 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+304 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+305 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+306 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+307 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+308 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+309 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+310 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+311 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+312 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+313 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+314 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+315 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+316 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+317 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+318 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+319 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+320 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+321 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+322 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+323 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+324 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+325 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+326 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+327 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+328 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+329 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+330 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+331 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+332 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+333 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+334 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+335 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+336 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+337 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+338 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+339 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+340 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+341 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+342 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+343 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+344 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+345 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+346 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+347 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+348 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+349 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+350 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+351 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+352 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+353 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+354 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+355 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+356 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+357 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+358 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+359 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+360 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+361 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+362 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+363 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+364 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+365 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+366 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+367 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+368 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+369 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+370 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+371 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+372 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+373 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+374 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+375 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+376 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+377 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+378 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+379 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+380 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+381 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+382 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+383 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+384 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+385 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+386 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+387 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+388 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+389 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+390 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+391 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+392 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+393 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+394 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+395 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+396 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+397 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+398 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+399 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+400 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+401 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+402 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+403 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+404 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+405 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+406 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+407 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+408 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+409 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+410 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+411 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+412 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+413 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+414 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+415 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+416 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+417 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+418 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+419 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+420 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+421 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+422 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+423 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+424 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+425 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+426 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+427 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+428 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+429 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+430 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+431 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+432 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+433 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+434 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+435 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+436 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+437 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+438 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+439 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+440 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+441 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+442 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+443 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+444 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+445 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+446 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+447 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+448 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+449 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+450 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+451 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+452 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+453 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+454 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+455 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+456 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+457 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+458 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+459 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+460 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+461 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+462 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+463 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+464 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+465 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+466 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+467 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+468 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+469 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+470 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+471 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+472 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+473 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+474 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+475 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+476 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+477 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+478 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+479 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+480 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+481 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+482 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+483 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+484 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+485 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+486 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+487 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+488 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+489 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+490 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+491 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+492 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+493 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+494 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+495 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+496 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+497 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+498 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+499 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+500 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+501 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+502 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+503 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+504 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+505 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+506 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+507 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+508 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+509 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+510 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+511 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+512 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+513 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+514 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+515 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+516 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+517 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+518 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+519 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+520 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+521 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+522 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+523 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+524 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+525 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+526 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+527 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+528 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+529 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+530 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+531 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+532 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+533 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+534 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+535 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+536 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+537 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+538 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+539 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+540 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+541 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+542 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+543 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+544 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+545 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+546 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+547 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+548 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+549 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+550 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+551 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+552 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+553 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+554 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+555 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+556 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+557 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+558 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+559 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+560 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+561 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+562 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+563 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+564 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+565 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+566 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+567 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+568 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+569 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+570 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+571 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+572 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+573 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+574 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+575 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+576 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+577 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+578 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+579 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+580 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+581 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+582 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+583 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+584 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+585 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+586 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+587 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+588 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+589 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+590 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+591 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+592 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+593 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+594 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+595 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+596 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+597 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+598 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+599 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+600 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+601 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+602 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+603 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+604 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+605 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+606 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+607 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+608 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+609 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+610 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+611 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+612 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+613 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+614 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+615 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+616 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+617 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+618 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+619 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+620 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+621 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+622 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+623 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+624 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+625 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+626 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+627 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+628 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+629 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+630 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+631 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+632 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+633 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+634 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+635 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+636 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+637 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+638 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+639 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+640 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+641 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+642 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+643 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+644 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+645 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+646 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+647 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+648 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+649 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+650 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+651 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+652 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+653 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+654 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+655 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+656 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+657 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+658 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+659 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+660 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+661 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+662 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+663 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+664 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+665 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+666 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+667 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+668 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+669 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+670 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+671 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+672 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+673 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+674 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+675 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+676 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+677 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+678 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+679 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+680 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+681 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+682 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+683 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+684 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+685 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+686 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+687 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+688 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+689 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+690 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+691 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+692 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+693 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+694 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+695 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+696 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+697 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+698 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+699 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+700 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+701 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+702 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+703 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+704 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+705 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+706 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+707 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+708 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+709 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+710 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+711 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+712 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+713 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+714 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+715 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+716 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+717 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+718 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+719 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+720 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+721 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+722 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+723 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+724 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+725 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
+726 ={
+barbarian_power=0
+civilization_value=0
+culture=""
+province_rank=""
+religion=""
+terrain="ocean"
+trade_goods=""
+}
