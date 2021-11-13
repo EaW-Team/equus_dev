@@ -5,3 +5,16 @@
 	
 	# color = hsv { 0.5 1.0 1.0 }  # or named color, or rgb
 }
+arantiga_region = {
+	areas = {
+		arantiga_area
+		lake_area
+		erie_area
+		eyrie_area
+		north_stone_area
+		south_stone_area
+		francistria_area
+		francis_area
+		arantigan_plains_area
+	}
+}

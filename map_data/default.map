@@ -11,4 +11,4 @@ climate = "climate.txt"
 
 sea_zones = RANGE { 4004 4237 }
 
-wasteland = RANGE { 2 4003 }
+wasteland = RANGE { 2 3 }

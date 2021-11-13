@@ -1,3 +1,137 @@
 ﻿roma_area = { #10
 	provinces = { 1 2 3 4 5 6 }
 }
+
+arantiga_area = {
+	provinces = { 2513 1901 3159 2847 1774 3143 3128 1626 265 591 }
+}
+
+lake_area = {
+	provinces = { 1904 2644 2206 2526 1535 1072 3826 2748 }
+}
+erie_area = {
+	provinces = { 383 954 2588 287 3047 1507 238 2827 1930 }
+}
+eyrie_area = {
+	provinces = { 3055 3039 698 1400 1578 1504 2022 372 3011 }
+}
+north_stone_area = {
+	provinces = { 1123 2227 3060 236 90 422 621 501 2298 2664 }
+}
+south_stone_area = {
+	provinces = { 3093 905 2564 1437 3162 3145 1055 1550 3110 1605 }
+}
+francistria_area = {
+	provinces = { 552 3156 2299 876 2596 1214 3196 3187 999 }
+}
+francis_area = {
+	provinces = { 3194 146 3213 963 1698 2733 1307 3222 }
+}
+arantigan_plains_area = {
+	provinces = { 3188 2749 2256 2411 657 2559 1745 2192 2136 3229 }
+}
+belgium_area = {
+	provinces = { 2941 142 2928 1474 2969 872 2957 2981 1000 1971 }
+}
+wallonia_area = {
+	provinces = { 222 936 1560 2790 668 2241 }
+}
+ardennes_area = {
+	provinces = { 1108 929 1463 675 2955 1389 }
+}
+bitchland_area = {
+	provinces = { 2047 2932 2962 2552 1312 1847 }
+}
+avian_area = {
+	provinces = { 212 1304 985 2292 1968 2746 2986 1577 }
+}
+forest_bitches_area = {
+	provinces = { 2392 1446 622 1212 2943 }
+}
+myrelia_area = {
+	provinces = { 248 2445 998 2617 85 2919 2927 }
+}
+north_avian_area = {
+	provinces = { 1681 487 1198 2949 2951 2025 }
+}
+east_area = {
+	provinces = { 592 271 2213 1332 1520 2751 809 }
+}
+picardy_area = {
+	provinces = { 1878 1256 1211 899 1957 1785 }
+}
+west_avian_area = {
+	provinces = { 1005 2586 2332 2961 1676 3009 }
+}
+lagbe_area = {
+	provinces = { 230 2402 1041 2987 1960 }
+}
+berd_area = {
+	provinces = { 1297 3133 2353 191 1608 }
+}
+french_isles_area = {
+	provinces = { 3822 3818 3830 3831 3832 3833}
+}
+onoba_area = {
+	provinces = { 3030 3097 3077 1349 2757 2669 205 }
+}
+venice_area = {
+	provinces = { 1230 3193 2753 2631 1164 3150 }
+}
+marseille_area = {
+	provinces = { 2556 1177 2800 1490 881 3835 }
+}
+genoa_area = {
+	provinces = { 3208 2281 3841 3838 1071 3170 }
+}
+bagai_area = {
+	provinces = { 3182 1986 2680 1624 2452 660 1160 }
+}
+savoy_area = {
+	provinces = { 3209 1703 1505 548 3163 3191 1670 }
+}
+tanomia_area = {
+	provinces = { 2267 1298 3105 1019 703 2495 3137 }
+}
+segeda_area = {
+	provinces = { 2541 3121 2611 1109 3117 1213 684 }
+}
+kabia_area = {
+	provinces = { 325 2727 550 2764 2439 1704 }
+}
+kinna_area = {
+	provinces = { 2722 1991 190 1197 2259 1355 2674 }
+}
+avolocum_area = {
+	provinces = { 2366 1862 3112 2473 1154 2404 }
+}
+klaneos_area = {
+	provinces = { 1777 2772 2522 2540 642 3103 2251 }
+}
+funny_area = {
+	provinces = { 736 1134 3123 1749 2344 1135 3089 }
+}
+senonia_area = {
+	provinces = { 2253 3085 2487 1950 977 1721 2756 }
+}
+dorista_area = {
+	provinces = { 980 2546 2742 1709 1398 3043 }
+}
+arran_area = {
+	provinces = { 2670 3057 1672 928 326 }
+}
+propontis_area = {
+	provinces = { 1053 1017 903 2623 2120 }
+}
+french_swamp_area = {
+	provinces = { 2191 1629 1451 1103 1401 2184 390 }
+}
+zaliches_area = {
+	provinces = { 2432 1810 2998 1007 2690 1771 }
+}
+paroa_area = {
+	provinces = { 2370 1874 608 1240 2385 }
+}
+duroc_area = {
+	provinces = { 821 3021 1857 906 154 3037 }
+}
