@@ -18,3 +18,63 @@ arantiga_region = {
 		arantigan_plains_area
 	}
 }
+
+avian_region = {
+	areas = {
+		avian_area
+		north_avian_area
+		east_area
+		forest_bitches_area
+		myrelia_area
+		lagbe_area
+		west_avian_area
+	}
+}
+
+normandy_region = {
+	areas = {
+		belgium_area
+		wallonia_area
+		picardy_area
+		onoba_area
+		klaneos_area
+		berd_area
+		french_isles_area
+	}
+}
+
+ardennes_region = {
+	areas = {
+		ardennes_area
+		bitchland_area
+		french_swamp_area
+		duroc_area
+		propontis_area
+		zaliches_area
+		paroa_area
+	}
+}
+
+vinovia_region = {
+	areas = {
+		savoy_area
+		segeda_area
+		tanomia_area
+		senonia_area
+		arran_area
+		bagai_area
+		dorista_area
+	}
+}
+
+marseille_region = {
+	areas = {
+		marseille_area
+		genoa_area
+		kabia_area
+		funny_area
+		kinna_area
+		avolocum_area
+		venice_area
+	}
+}
