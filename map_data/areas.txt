@@ -135,3 +135,15 @@ paroa_area = {
 duroc_area = {
 	provinces = { 821 3021 1857 906 154 3037 }
 }
+western_isles_area = {
+	provinces = { 3847 755 83 3294 3270 2110 }
+}
+southern_isles_area = {
+	provinces = { 3845 3843 3846 588 2636 3844 }
+}
+central_west_area = {
+	provinces = { 2624 2638 311 3234 2760 2409 689 }
+}
+central_east_area = {
+	provinces = { 2516 2406 3303 2056 2689 1893 }
+}

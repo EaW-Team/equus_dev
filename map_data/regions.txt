@@ -78,3 +78,12 @@ marseille_region = {
 		venice_area
 	}
 }
+
+french_island_region = {
+	areas = {
+		western_isles_area
+		southern_isles_area
+		central_west_area
+		central_east_area
+	}
+}
