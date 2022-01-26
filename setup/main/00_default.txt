@@ -28,6 +28,58 @@ country = {
 			}
 			
 		}
+		
+		ARA = {
+			government = aristocratic_monarchy
+			primary_culture = roman
+			religion = roman_pantheon
+
+			capital = 3128
+		
+			own_control_core = 	{
+				3128 1626 3143 1041 1774 591 265 2847 3159 1901 2513 1214 3194 963 2749 383 954 552 3156 1960 2402 230 2332 1676 3009 2756 1053 977 1721 1950 3085 2487 2253 2495 238 2827 1930 3105 1298 2495 1019 703 3137 1624 2392 928 1017 2120 2987 1847 2962 2267 2299 2588 287 3047 1507 3055 3039 212 2746 1400 698 876 999 2452 3187 2596 3196 146 3222 1307 3213 2733 1698 1304 1968 2680 660 1160 3182 1986 2541 3121 684 2670 1672 903 2623 1703 4185 1505 3163 1109 2611 3117 1213 2546 2742 980 1709 1398 3057 326 3043 548 2047 1212 2943 1446 622 2919 2617 998 2961 2586 1005 2292 1681 2445 2927 85 3188 1745 2192 2136 1578 1504 3011 2751 809 1332 1520 2022 985 1577 2986 372 592 271 2025 2213 2949 2951 487 1198 248 3229 2559
+			}
+			
+		}
+
+		SEL = {
+			government = aristocratic_monarchy
+			primary_culture = roman
+			religion = roman_pantheon
+
+			capital = 1605
+		
+			own_control_core = 	{
+				1605 657 2411 2256 2644 2206 1055 3145 3162 1437 2564 1550 3110 3093 905 2526 422 621 2664 2298 236 3060 1123 2227 90 501
+			}
+			
+		}
+
+		FRA = {
+			government = aristocratic_monarchy
+			primary_culture = roman
+			religion = roman_pantheon
+
+			capital = 3170
+		
+			own_control_core = 	{
+				3170 736 325 2727 1134 2764 550 2439 1704 3123 1749 1071 1135 2344
+			}
+			
+		}
+
+		IRE = {
+			government = aristocratic_monarchy
+			primary_culture = roman
+			religion = roman_pantheon
+
+			capital = 2748
+		
+			own_control_core = 	{
+				2748 3826 1535 1072 1904
+			}
+			
+		}
 	}
 }
 trade = {

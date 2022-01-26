@@ -4,3 +4,7 @@ BAR = "setup/countries/barbarians.txt"
 MER = "setup/countries/mercenaries.txt"
 
 ROM = "setup/countries/italia/rome.txt"
+ARA = "setup/countries/italia/arantiga.txt"
+SEL = "setup/countries/italia/seleucia.txt"
+FRA = "setup/countries/italia/aquilea.txt"
+IRE = "setup/countries/italia/hibernia.txt"
