@@ -1,0 +1,440 @@
+﻿85={ #Gela
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+212={ #Parthenia
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+230={ #Thymbrion
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+248={ #Myrleia
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+271={ #Attea
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+487={ #Bessapara
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+592={ #Talmis
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+622={ #Zamnes
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+809={ #Europos
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+985={ #Ishkewt
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+998={ #Artemita Vaspurakan
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1005={ #Auso
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1041={ #Intercatia
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1198={ #Coloricum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1212={ #Sermonae
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1304={ #Caellonico
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1332={ #Myrtilis
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1446={ #Ad Decimum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1520={ #Bonab Qal'eh
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1577={ #Motene
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1676={ #Meschistha-Harmozike
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1681={ #Aragvispiri
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1960={ #Lagbe
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1968={ #Alexandreia pros to Latmo
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2025={ #Verluccio
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2213={ #Albanopolis
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2292={ #Pompegiaco
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2332={ #Negiacum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2392={ #Aunnedonacum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2402={ #Bricca
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2445={ #Augustomagus
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2586={ #Mare Cilicium
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2617={ #Mare Aegaeum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2746={ #Pontus Euxinus
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2751={ #Palus Maeotica
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2919={ #Mare Erythraeum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2927={ #Mare Erythraeum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2943={ #Mare Erythraeum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2949={ #Mare Erythraeum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2951={ #Mare Erythraeum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2961={ #Sinus Gangeticus
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2986={ #Sinus Gangeticus
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2987={ #Sinus Gangeticus
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3009={ #Larga
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+

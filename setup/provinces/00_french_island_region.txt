@@ -1,0 +1,250 @@
+﻿83={ #Leontini
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+311={ #Pepouza
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+588={ #Aristonis
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+689={ #Bethar
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+755={ #Veriaraca
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1893={ #Dasmenda
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2056={ #Letocetum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2110={ #Selgovae
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2406={ #Leprosum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2409={ #Ernodurum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2516={ #Fretum Melitense
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2624={ #Fretum Siculum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2636={ #Mare Libycum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2638={ #Mare Ionium
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2689={ #Mare Tyrrhenum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2760={ #Pontus Euxinus
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3234={ #Sicca Veneria
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3270={ #Bisica Lucana
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3294={ #Tipasa
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3303={ #Oea
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3843={ #Ganuenta
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3844={ #Fletio
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3845={ #Marsacia
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3846={ #Lugadurum
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3847={ #Baduhenna
+	terrain="impassable_terrain"
+	culture="roman"
+	religion="roman_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
