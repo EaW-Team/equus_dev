@@ -13808,13 +13808,29 @@ terrain="impassable_terrain"
 trade_goods=""
 }
 1535 ={
-barbarian_power=0
-civilization_value=0
-culture="roman"
-province_rank=""
-religion="roman_pantheon"
-terrain="impassable_terrain"
-trade_goods=""
+	barbarian_power=0
+	civilization_value=0
+	culture="roman"
+	province_rank="city"
+	religion="roman_pantheon"
+	terrain="plains"
+	trade_goods="stone"
+	nobles=
+	{
+		amount=2
+	}
+	citizen=
+	{
+		amount=3
+	}
+	freemen=
+	{
+		amount=12
+	}
+	slaves=
+	{
+		amount=6
+	}
 }
 1536 ={
 barbarian_power=0
@@ -22613,10 +22629,26 @@ trade_goods=""
 	barbarian_power=0
 	civilization_value=0
 	culture="roman"
-	province_rank=""
+	province_rank="city"
 	religion="roman_pantheon"
-	terrain="impassable_terrain"
-	trade_goods=""
+	terrain="plains"
+	trade_goods="stone"
+	nobles=
+	{
+		amount=4
+	}
+	citizen=
+	{
+		amount=10
+	}
+	freemen=
+	{
+		amount=15
+	}
+	slaves=
+	{
+		amount=8
+	}
 }
 2514 ={
 	barbarian_power=0
@@ -24725,13 +24757,29 @@ terrain="impassable_terrain"
 trade_goods=""
 }
 2748 ={
-barbarian_power=0
-civilization_value=0
-culture="roman"
-province_rank=""
-religion="roman_pantheon"
-terrain="impassable_terrain"
-trade_goods=""
+	barbarian_power=0
+	civilization_value=0
+	culture="roman"
+	province_rank="city"
+	religion="roman_pantheon"
+	terrain="plains"
+	trade_goods="stone"
+	nobles=
+	{
+		amount=1
+	}
+	citizen=
+	{
+		amount=4
+	}
+	freemen=
+	{
+		amount=8
+	}
+	slaves=
+	{
+		amount=6
+	}
 }
 2749 ={
 barbarian_power=0
@@ -28145,13 +28193,29 @@ terrain="impassable_terrain"
 trade_goods=""
 }
 3128 ={
-barbarian_power=0
-civilization_value=0
-culture="roman"
-province_rank=""
-religion="roman_pantheon"
-terrain="impassable_terrain"
-trade_goods=""
+	barbarian_power=0
+	civilization_value=65
+	culture="roman"
+	province_rank="city_metropolis"
+	religion="roman_pantheon"
+	terrain="plains"
+	trade_goods="stone"
+	nobles=
+	{
+		amount=7
+	}
+	citizen=
+	{
+		amount=25
+	}
+	freemen=
+	{
+		amount=30
+	}
+	slaves=
+	{
+		amount=12
+	}
 }
 3129 ={
 barbarian_power=0
@@ -28280,13 +28344,29 @@ terrain="impassable_terrain"
 trade_goods=""
 }
 3143 ={
-barbarian_power=0
-civilization_value=0
-culture="roman"
-province_rank=""
-religion="roman_pantheon"
-terrain="impassable_terrain"
-trade_goods=""
+	barbarian_power=0
+	civilization_value=0
+	culture="roman"
+	province_rank="city"
+	religion="roman_pantheon"
+	terrain="plains"
+	trade_goods="stone"
+	nobles=
+	{
+		amount=4
+	}
+	citizen=
+	{
+		amount=10
+	}
+	freemen=
+	{
+		amount=15
+	}
+	slaves=
+	{
+		amount=8
+	}
 }
 3144 ={
 barbarian_power=0
