@@ -5,7 +5,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 146={ #Bononia
@@ -15,7 +26,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 236={ #Tarsos Bithynias
@@ -25,7 +47,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 238={ #Diospolis
@@ -35,7 +68,14 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
 }
 
 265={ #Argiza
@@ -45,7 +85,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 287={ #Smyrna
@@ -55,7 +107,14 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=3
+	}
+	slaves={
+		amount=5
+	}
 }
 
 372={ #Korion
@@ -65,7 +124,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 383={ #Europos
@@ -75,7 +145,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 422={ #Apollonia
@@ -85,7 +167,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 501={ #Heliopolis
@@ -95,7 +188,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 552={ #Koussai
@@ -105,7 +209,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 591={ #Syene
@@ -115,7 +230,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 621={ #Tergendum
@@ -125,7 +251,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 657={ #Bitylion
@@ -135,7 +272,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 698={ #Sobata
@@ -145,7 +293,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 876={ #Qarassas
@@ -155,7 +314,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 905={ #Bechchouphrein
@@ -165,7 +335,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 954={ #Haditha
@@ -175,7 +356,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 963={ #Failaka
@@ -185,7 +377,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 999={ #Hayk
@@ -195,7 +398,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1055={ #Sigarra
@@ -205,7 +419,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1072={ #Gallicum
@@ -215,7 +440,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1123={ #Mons Rubeum
@@ -225,7 +461,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1214={ #Carae
@@ -235,7 +483,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 1307={ #Caurium
@@ -245,7 +504,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 1400={ #Augusta Emerita
@@ -255,7 +525,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 1437={ #Augustobriga Vettonia
@@ -265,7 +546,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1504={ #Gazrik
@@ -275,7 +568,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1507={ #Sormanabad tepe
@@ -285,7 +589,14 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
 }
 
 1535={ #Qiz Chakhlu
@@ -317,7 +628,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1578={ #Orontes
@@ -327,7 +650,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1605={ #Gezlu
@@ -337,7 +671,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1626={ #Mishkinshahr
@@ -347,7 +692,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1698={ #Sinara
@@ -357,7 +714,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1745={ #Masaitike
@@ -367,7 +735,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1774={ #Samothrake
@@ -377,7 +756,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1901={ #Anemourion
@@ -387,7 +777,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 1904={ #Selinous Kilikias
@@ -397,7 +798,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1930={ #Mordiaion
@@ -407,7 +820,14 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
 }
 
 2022={ #Londinium
@@ -417,7 +837,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2136={ #Crouciaconnum
@@ -427,7 +858,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2192={ #Manapia Australis
@@ -437,7 +879,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2206={ #Voluntia Borealis
@@ -447,7 +900,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 2227={ #Vertavia
@@ -457,7 +921,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2256={ #Narbo
@@ -467,7 +942,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2298={ #Brivas
@@ -477,7 +963,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2299={ #Biliomagus
@@ -487,7 +985,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2411={ #Segivomicus
@@ -497,7 +1006,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2513={ #Mare Ionium
@@ -529,7 +1049,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 2559={ #Mare Hibericum
@@ -539,7 +1070,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2564={ #Sinus Uticensis
@@ -549,7 +1092,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2588={ #Mare Lycium
@@ -559,7 +1114,14 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=3
+	}
+	slaves={
+		amount=5
+	}
 }
 
 2596={ #Mare Aegyptium
@@ -569,7 +1131,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2644={ #Syrtis Maior
@@ -579,7 +1152,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2664={ #Mare Aegyptium
@@ -589,7 +1174,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2733={ #Pontus Euxinus
@@ -599,7 +1195,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2748={ #Bosporus Cimmerius
@@ -631,7 +1238,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2827={ #Mare Erythraeum
@@ -641,7 +1259,14 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
 }
 
 2847={ #Mare Erythraeum
@@ -651,7 +1276,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 3011={ #Epamanduodurum
@@ -661,7 +1297,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3039={ #Estia
@@ -671,7 +1318,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3047={ #Duronum
@@ -681,7 +1339,14 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=3
+	}
+	slaves={
+		amount=5
+	}
 }
 
 3055={ #Lopodunum
@@ -691,7 +1356,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3060={ #Vindolanda
@@ -701,7 +1378,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3093={ #Regiae
@@ -711,7 +1400,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3110={ #Tingitanum
@@ -721,7 +1421,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=15
+	}
+	slaves={
+		amount=8
+	}
 }
 
 3128={ #Phruraesius Mons
@@ -775,7 +1487,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3156={ #Nicivibus
@@ -785,7 +1508,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3159={ #Zarai
@@ -795,7 +1530,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 3162={ #Milevum
@@ -805,7 +1551,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3187={ #Midili
@@ -815,7 +1572,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3188={ #Casae Nigrae
@@ -825,7 +1593,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=5
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=8
+	}
 }
 
 3194={ #Thelepte
@@ -835,7 +1614,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3196={ #Capsa Iustiniana
@@ -845,7 +1636,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3213={ #Vasampus
@@ -855,7 +1657,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3222={ #
@@ -865,7 +1678,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3229={ #Tuniza
@@ -875,7 +1699,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3826={ #Amisia
@@ -885,6 +1720,17 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	freemen=
+	{
+		amount=4
+	}
+	nobles=
+	{
+		amount=1
+	}
+	slaves={
+		amount=6
+	}
 }
 

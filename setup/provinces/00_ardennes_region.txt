@@ -5,7 +5,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 390={ #Pherai
@@ -15,7 +19,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 608={ #Paroa
@@ -45,7 +53,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 903={ #Kerbala
@@ -55,7 +67,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 906={ #Anatho
@@ -65,7 +81,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 929={ #Nippur
@@ -95,7 +115,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1053={ #Antistiana
@@ -105,7 +129,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1103={ #Segisama Iulia
@@ -115,7 +143,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1108={ #Veseiasueca
@@ -165,7 +197,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1451={ #Ad Murum
@@ -175,7 +211,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1463={ #Solorbes
@@ -195,7 +235,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1771={ #Analibna
@@ -225,7 +269,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1857={ #Hierapolis Sophenias
@@ -235,7 +283,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1874={ #Oiniandos
@@ -265,7 +317,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 2184={ #Gangania Borealis
@@ -285,7 +341,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 2370={ #Transalium
@@ -335,7 +395,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 2690={ #Mare Sardoum
@@ -395,7 +459,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 3037={ #Durocoregum
@@ -405,6 +473,10 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 

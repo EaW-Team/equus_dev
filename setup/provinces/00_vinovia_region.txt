@@ -5,7 +5,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 548={ #Alabastronpolis
@@ -55,7 +59,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 977={ #Shahraban
@@ -65,7 +73,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 980={ #Dorista
@@ -75,7 +87,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1019={ #Clunia
@@ -135,7 +151,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1505={ #Arziyayad tepe
@@ -165,7 +185,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1672={ #Southeast Arran
@@ -175,7 +207,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1703={ #Bori
@@ -195,7 +231,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1721={ #Fines
@@ -205,7 +245,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1950={ #Derbe
@@ -215,7 +259,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1986={ #Pogla
@@ -235,7 +283,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 2267={ #Elusio
@@ -265,7 +317,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 2495={ #Tanomia
@@ -315,7 +371,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 2680={ #Mare Cilicium
@@ -335,7 +395,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 2756={ #Pontus Euxinus
@@ -345,7 +409,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 3043={ #Viromanduorum
@@ -355,7 +423,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 3057={ #Hessulum
@@ -365,7 +437,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 3085={ #Tamuda
@@ -375,7 +451,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 3105={ #Columnata
@@ -445,7 +525,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3209={ #Thala Musulamia
@@ -455,6 +547,18 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 

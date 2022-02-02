@@ -15,7 +15,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 550={ #Thynis
@@ -55,7 +67,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1134={ #Varina Marinia
@@ -95,7 +119,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1177={ #Cauca
@@ -125,7 +161,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 1355={ #Hispalis
@@ -385,7 +433,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3193={ #Cerva
@@ -405,7 +465,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 3835={ #Ansibaria

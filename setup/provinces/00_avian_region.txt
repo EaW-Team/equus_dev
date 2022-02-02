@@ -5,7 +5,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 212={ #Parthenia
@@ -25,7 +37,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 248={ #Myrleia
@@ -125,7 +141,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1198={ #Coloricum
@@ -205,8 +225,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
-}
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 
 1681={ #Aragvispiri
 	terrain="impassable_terrain"
@@ -225,7 +248,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 1968={ #Alexandreia pros to Latmo
@@ -275,7 +302,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 2392={ #Aunnedonacum
@@ -295,7 +326,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 2445={ #Augustomagus
@@ -325,7 +360,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=15
+	}
+	slaves={
+		amount=8
+	}
 }
 
 2746={ #Pontus Euxinus
@@ -355,7 +402,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2927={ #Mare Erythraeum
@@ -365,7 +424,19 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
 }
 
 2943={ #Mare Erythraeum
@@ -405,7 +476,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 2986={ #Sinus Gangeticus
@@ -425,7 +500,11 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
 3009={ #Larga
@@ -435,6 +514,10 @@
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen=
+	{
+		amount=2
+	}
 }
 
